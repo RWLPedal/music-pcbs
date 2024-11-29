@@ -9,6 +9,7 @@ Here's list of my own PCBs.
 |            PCB Name             | PCB Author | Type  |     Schematic Name     | Schematic Author |
 | :-----------------------------: | :--------: | :---: | :--------------------: | :--------------: |
 | [Shiny Cowbird](/ShinyCowbird/) |    RWL     | Fuzz  | Dyl-Ei Fuzz Apprentice |     Dylan159     |
+| [Footswitch Daughterboard](/FootswitchDaughterboard/) |    RWL     | Utility  | N/A |     N/A     |
 
 ## Conventions
 
