@@ -8,6 +8,6 @@ Some of the designs are my own; there are also links to other repositories with 
 
 Here's list of my own PCBs.
 
-|   PCB Name    | PCB Source | Schematic Name | Schematic Source |
-| :-----------: | :--------: | :------------: | :--------------: |
-| Shiny Cowbird |    RWL     |  Dyl-Ei Fuzz Apprentice  |     Dylan159     |
+|   PCB Name    | PCB Source |     Schematic Name     | Schematic Source |
+| :-----------: | :--------: | :--------------------: | :--------------: |
+| [Shiny Cowbird](/ShinyCowbird/) |    RWL     | Dyl-Ei Fuzz Apprentice |     Dylan159     |
