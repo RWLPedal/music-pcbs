@@ -4,7 +4,7 @@ The *Shiny Cowbird* is a PCB layout of [Dylan159's Dyl-ei Fuzz Apprentice](https
 
 This PCB name has two meanings. First, the original pedal is the *Shin-ei fuzz apprentice*, so I wanted to have *Shiny* in the name. Second, cowbirds are obligate brood parasites. This means that they cannot construct nests or incubate eggs on their own. Instead, they lay eggs in the nests of other birds, and then the cowbird hatchlings will try to dominate the food consumption - often pushing the host hatchlings out of the nest! Quite nasty, but I felt this somewhat fit with the "Companion/Apprentice" naming.
 
-If you'd like to just get started, you can go ahead and download the [gerber](/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber]([/gerber.zip](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/gerber.zip?raw=true) for fabrication.
 
 ## Bill of materials
 
@@ -70,5 +70,7 @@ Below is the KiCad schematic.
 ![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/schematic.png?raw=true)
 
 ## Licensing
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 As with the Dylan159's original schematic, this layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
