@@ -26,6 +26,6 @@ For my layouts, I've attempted to apply the following conventions:
   * For clarity, LED leads are labeled with +/- on front and back, rather than with other annotations like A/K, or simply showing the flat part of the LED package.
   * Capacitor leads are labeled with + on the front and back.
 * References:
-  * Power and LED components are labeled with *10?* references (such as *D100*) to indicate that they are not part of the main circuit.
+  * Power and LED components are labeled with *?10?* references (such as *R100* for the first resistor in the power/LED section) to indicate that they are not part of the main circuit.
 * Gerbers:
   * Gerber files provided with attribute values on the silkscreen, so no need to reference the BOM. Attribute references provided via screenshot on github.

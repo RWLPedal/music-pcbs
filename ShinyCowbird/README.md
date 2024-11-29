@@ -1,10 +1,13 @@
 # Shiny Cowbird (Dyl-ei Fuzz Apprentice)
 
-The *Shiny Cowbird* is a PCB layout of [Dylan159's Dyl-ei Fuzz Apprentice](https://bentfishbowl.wixsite.com/electronics/post/dyl-ei-fuzz-apprentice-trev-ei-brazzmaster), which is in turn a version of the Shin-ei FY-2 Companion Fuzz. This is a fuzz with a harsh nasally tone, quite distinct from other fuzzes. It only has a few components, and they're all easily obtained.
+The *Shiny Cowbird* is a PCB for [Dylan159's Dyl-ei Fuzz Apprentice](https://bentfishbowl.wixsite.com/electronics/post/dyl-ei-fuzz-apprentice-trev-ei-brazzmaster), which is in turn a modified Shin-ei FY-2 Companion Fuzz. This is a fuzz with a distinct harsh nasally tone, quite unique and somewhat charming. It only has a few components, and they're all easily obtained.
 
-This PCB name has two meanings. First, the original pedal is the *Shin-ei fuzz apprentice*, so I wanted to have *Shiny* in the name. Second, cowbirds are obligate brood parasites. This means that they cannot construct nests or incubate eggs on their own. Instead, they lay eggs in the nests of other birds, and then the cowbird hatchlings will try to dominate the food consumption - often pushing the host hatchlings out of the nest! Quite nasty, but I felt this somewhat fit with the "Companion/Apprentice" naming.
+This Shiny Cowbird name was chosen for two reasons.
 
-If you'd like to just get started, you can go ahead and download the [gerber]([/gerber.zip](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/gerber.zip?raw=true) for fabrication.
+1. The original pedal is the *Shin-ei fuzz apprentice*, so I wanted to have *Shiny* in the name.
+2. Cowbirds are obligate brood parasites. This means that they cannot construct nests or incubate eggs on their own. Instead, they lay eggs in the nests of other birds, and then the cowbird hatchlings will try to dominate the food consumption - often pushing the host hatchlings out of the nest! Quite nasty, but I felt this somewhat fit with the "Companion/Apprentice" naming.
+
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/ShinyCowbird/gerber.zip) for fabrication (click *raw* button to download).
 
 ## Bill of materials
 
@@ -74,3 +77,8 @@ Below is the KiCad schematic.
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 As with the Dylan159's original schematic, this layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
+
+## Versions
+
+* V1.1 - Fixed transistor and electrolytic capacitor footprints. First public release.
+* V1.0 - First build. Had bad footprints for transistors and electrolytic capacitor. Never publically released, but confirmed to work.
