@@ -1,8 +1,10 @@
 # Dipper Compressor ("That" Compressor)
 
-The *Dipper Compressor* is a PCB for [Dylan159's "That" Compressor](https://bentfishbowl.wixsite.com/electronics/post/that-compressor), a unique compressor with simple components. As with most compressors, this one is relatively subtle, and has low ripple and artifacts. It has a relatively limited number of components, none of which is difficult to obtain.
+The *Dipper Compressor* is a PCB for [Dylan159's "That" Compressor](https://bentfishbowl.wixsite.com/electronics/post/that-compressor), a unique compressor. As with most compressors, this one is relatively subtle, but features a limited number of easy-to-obtain components, and it has low ripple or other artifacts.
 
-The Dipper name was chosen because this pedal has low "ripple" and few artifacts. Dippers are a type of songbird which dive into running water. They are the only diving songbird - they look similar to thrushes such as robins, but can dive. In the US West, you can see American Dippers diving into icy spring snow runoff and emerging with aquatic prey.
+Dylan159 provides vero layouts for a 3-knob and 5-knob compressor. This layout is for 5 knobs.
+
+The Dipper name was chosen because this pedal has "low ripple." Dippers are a type of songbird which dive into running water (ostensibly without leaving much of a ripple!). They are the only diving songbird - they look similar to thrushes such as robins, but can dive. In the US West, you can see American Dippers diving into icy spring snow runoff and emerging with aquatic prey.
 
 If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/DipperCompressor/gerber.zip) for fabrication.
 
