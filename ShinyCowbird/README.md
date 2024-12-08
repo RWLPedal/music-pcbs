@@ -1,5 +1,7 @@
 # Shiny Cowbird (Dyl-ei Fuzz Apprentice)
 
+<img src="https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/shiny_cowbird.png?raw=true" alt="Cover image with gutshot" height="500px">
+
 The *Shiny Cowbird* is a PCB for [Dylan159's Dyl-ei Fuzz Apprentice](https://bentfishbowl.wixsite.com/electronics/post/dyl-ei-fuzz-apprentice-trev-ei-brazzmaster), which is in turn a modified *Shin-ei FY-2 Companion Fuzz*. This is a fuzz with a distinct harsh nasally tone - charming and quite unique. It only has a few components, and they're all easily obtained.
 
 This Shiny Cowbird name was chosen for two reasons:
@@ -35,6 +37,8 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 | FUZZ           | B100K     | Potentiometer          |                                                  |
 | NOTCH          | A100K     | Potentiometer          |                                                  |
 | VOLUME         | A100K     | Potentiometer          |                                                  |
+
+Dylan159 doesn't specify the transistors to use. I've used 2N3904, but you can experiment with others.
 
 Note that the bypass indicator LED and LEDR are on the PCB, and are listed here in the BOM.
 
@@ -80,5 +84,6 @@ As with the Dylan159's original schematic, this layout is licensed with a Creati
 
 ## Versions
 
-* V1.1 - Fixed transistor and electrolytic capacitor footprints. First public release.
+* V1.2 - Rotate transistors to face the same direction. Small polish to ensure labels look good and slightly increase electrolytic footprint size.
+* V1.1 - Fixed transistor and electrolytic capacitor footprints. First public release. Confirmed to work.
 * V1.0 - First build. Had bad footprints for transistors and electrolytic capacitor, but still confirmed to work. Never publically released.
