@@ -1,6 +1,6 @@
 # Honeycreeper Overdrive
 
-<img src="https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/honeycreeper_overdrive.png?raw=true" alt="Cover image with gutshot" height="500px">
+<img src="https://github.com/RWLPedal/music-pcbs/blob/main/HoneycreeperOverdrive/images/honeycreeper_overdrive.png?raw=true" alt="Cover image with gutshot" height="500px">
 
 The *Honeycreeper Overserive* is a PCB based on the Mad Professor Sweet Honey OD, one of many variations that include the Honey Bee. This pedal is based on a 2010 schematic trace credited to Yitzhak Turner-Schnell. It's a relatively transparent low-gain overdrive that was more popular in the late 2010s. The components are relatively cheap and easily sourced - the only hard-to-find part is the OP275 opamp.
 
