@@ -1,5 +1,7 @@
 # Dipper Compressor ("That" Compressor)
 
+<img src="https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/dipper_compressor.png?raw=true" alt="Cover image with gutshot" height="500px">
+
 The *Dipper Compressor* is a PCB for [Dylan159's "That" Compressor](https://bentfishbowl.wixsite.com/electronics/post/that-compressor), a unique compressor. As with most compressors, this one is relatively subtle, but features a limited number of easy-to-obtain components, and it has low ripple or other artifacts.
 
 Dylan159 provides vero layouts for a 3-knob and 5-knob compressor. This layout is for 5 knobs.

@@ -4,13 +4,19 @@ This repository contains links to publically available PCBs, including Gerber fi
 
 ## PCBs
 
-Here's list of my own PCBs.
+Here's list of my own PCBs based on DIY circuits or my own designs.
 
 |                       PCB Name                        | PCB Author |    Type    |      Circuit Name      | Circuit Author |
 | :---------------------------------------------------: | :--------: | :--------: | :--------------------: | :------------: |
 |        [Dipper Compressor](/DipperCompressor/)        |    RWL     | Compressor |   "That" Compressor    |    Dylan159    |
 |            [Shiny Cowbird](/ShinyCowbird/)            |    RWL     |    Fuzz    | Dyl-Ei Fuzz Apprentice |    Dylan159    |
 | [Footswitch Daughterboard](/FootswitchDaughterboard/) |    RWL     |  Utility   |          N/A           |      N/A       |
+
+Here's list of my own PCBs, based on commercial circuits
+
+|                     PCB Name                      | PCB Author |   Type    |         Based on          |
+| :-----------------------------------------------: | :--------: | :-------: | :-----------------------: |
+| [Honeycreeper Overdrive](/HoneycreeperOverdrive/) |    RWL     | Overdrive | Mad Professor Sweet Honey |
 
 ## Conventions
 
