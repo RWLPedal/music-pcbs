@@ -4,15 +4,16 @@ This repository contains links to publically available PCBs, including Gerber fi
 
 ## PCBs
 
-Here's list of my own PCBs based on DIY circuits or my own designs.
+Here's a list of my own PCBs based on DIY circuits, or my own designs:
 
-|                       PCB Name                        | PCB Author |    Type    |      Circuit Name      | Circuit Author |
-| :---------------------------------------------------: | :--------: | :--------: | :--------------------: | :------------: |
-|        [Dipper Compressor](/DipperCompressor/)        |    RWL     | Compressor |   "That" Compressor    |    Dylan159    |
-|            [Shiny Cowbird](/ShinyCowbird/)            |    RWL     |    Fuzz    | Dyl-Ei Fuzz Apprentice |    Dylan159    |
-| [Footswitch Daughterboard](/FootswitchDaughterboard/) |    RWL     |  Utility   |          N/A           |      N/A       |
+|                       PCB Name                        | PCB Author |    Type    |       Circuit Name       | Circuit Author |
+| :---------------------------------------------------: | :--------: | :--------: | :----------------------: | :------------: |
+|        [Dipper Compressor](/DipperCompressor/)        |    RWL     | Compressor |    "That" Compressor     |    Dylan159    |
+| [Footswitch Daughterboard](/FootswitchDaughterboard/) |    RWL     |  Utility   |           N/A            |      N/A       |
+|            [Shiny Cowbird](/ShinyCowbird/)            |    RWL     |    Fuzz    |  Dyl-Ei Fuzz Apprentice  |    Dylan159    |
+|    [White-Throated Overdrive](/DipperCompressor/)     |    RWL     | Overdrive  | Dudson Narrowest Castest |    Dylan159    |
 
-Here's list of my own PCBs, based on commercial circuits
+Here's a list of my own PCBs, based on commercial circuits:
 
 |                     PCB Name                      | PCB Author |   Type    |         Based on          |
 | :-----------------------------------------------: | :--------: | :-------: | :-----------------------: |

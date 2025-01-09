@@ -2,7 +2,7 @@
 
 <img src="https://github.com/RWLPedal/music-pcbs/blob/main/HoneycreeperOverdrive/images/honeycreeper_overdrive.png?raw=true" alt="Cover image with gutshot" height="500px">
 
-The *Honeycreeper Overserive* is a PCB based on the Mad Professor Sweet Honey OD, one of many variations that include the Honey Bee. This pedal is based on a 2010 schematic trace credited to Yitzhak Turner-Schnell. It's a relatively transparent low-gain overdrive that was more popular in the late 2010s. The components are relatively cheap and easily sourced - the only hard-to-find part is the OP275 opamp.
+The *Honeycreeper Overdrive* is a PCB based on the Mad Professor Sweet Honey OD, one of many variations of the same pedal that also includes the Honey Bee. This pedal is based on a 2010 schematic trace credited to Yitzhak Turner-Schnell. It's a relatively transparent low-gain overdrive that was more popular in the late 2010s. The components are relatively cheap and easily sourced - the only hard-to-find part is the OP275 opamp.
 
 The Honeycreeper name was chosen due to the obvious honey reference. The bird on the design above is a [Green Honeycreeper](https://ebird.org/species/grehon1), relatively common bird found in Central and South America. Honeycreepeprs are a family of small songbirds in the tanager family. They eat a variety of fruits and insects.
 
@@ -11,52 +11,52 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 ## Bill of materials
 
 
-| References | Value | Description |
-| :---- | :---- | :---- |
-| C3 | 4N7 | Film capacitor |
-| C9 | 4N7 | Film capacitor |
-| C15 | 4N7 | Film capacitor |
-| C8 | 22N | Film capacitor |
-| C10 | 22N | Film capacitor |
-| C11 | 22N | Film capacitor |
-| C1 | 22U | Electrolytic capacitor |
-| C12 | 22U | Electrolytic capacitor |
-| C6 | 1U | Film capacitor |
-| C14 | 1U | Film capacitor |
-| C2 | 220N | Film capacitor |
-| C4 | 22U | Electrolytic capacitor |
-| C5 | 100P | MLCC capacitor |
-| C7 | 100U | Electrolytic capacitor |
-| C13 | 1N | Film capacitor |
-| R9 | 47K | 1/4W Resistor |
-| R10 | 47K | 1/4W Resistor |
-| R18 | 47K | 1/4W Resistor |
-| R1 | 5K6 | 1/4W Resistor |
-| R17 | 5K6 | 1/4W Resistor |
-| R2 | 1M | 1/4W Resistor |
-| R15 | 1M | 1/4W Resistor |
-| R3 | 4K7 | 1/4W Resistor |
-| R4 | 1K | 1/4W Resistor |
-| R5 | 360K | 1/4W Resistor |
-| R6 | 6K8 | 1/4W Resistor |
-| R7 | 51R | 1/4W Resistor |
-| R8 | 3K | 1/4W Resistor |
-| R11 | 2K | 1/4W Resistor |
-| R12 | 13K7 | 1/4W Resistor |
-| R13 | 10K | 1/4W Resistor |
-| R14 | 150K | 1/4W Resistor |
-| R16 | 2K6 | 1/4W Resistor |
-| D2 | LED | 3mm LED (display) |
-| D3 | LED | 3mm Red LED |
-| D4 | LED | 3mm Red LED |
-| D7 | LED | 3mm Red LED |
-| D5 | 1N4007 | Diode |
-| D6 | 1N4007 | Diode |
-| D1 | 1N5817 | Diode |
-| U1 | OP275 | IC |
-| FOCUS1 | B50K | Potentiometer |
-| VOL1 | B50K | Potentiometer |
-| DRIVE1 | A500K | Potentiometer |
+| References | Value  | Description            |
+| :--------- | :----- | :--------------------- |
+| C3         | 4N7    | Film capacitor         |
+| C9         | 4N7    | Film capacitor         |
+| C15        | 4N7    | Film capacitor         |
+| C8         | 22N    | Film capacitor         |
+| C10        | 22N    | Film capacitor         |
+| C11        | 22N    | Film capacitor         |
+| C1         | 22U    | Electrolytic capacitor |
+| C12        | 22U    | Electrolytic capacitor |
+| C6         | 1U     | Film capacitor         |
+| C14        | 1U     | Film capacitor         |
+| C2         | 220N   | Film capacitor         |
+| C4         | 22U    | Electrolytic capacitor |
+| C5         | 100P   | MLCC capacitor         |
+| C7         | 100U   | Electrolytic capacitor |
+| C13        | 1N     | Film capacitor         |
+| R9         | 47K    | 1/4W Resistor          |
+| R10        | 47K    | 1/4W Resistor          |
+| R18        | 47K    | 1/4W Resistor          |
+| R1         | 5K6    | 1/4W Resistor          |
+| R17        | 5K6    | 1/4W Resistor          |
+| R2         | 1M     | 1/4W Resistor          |
+| R15        | 1M     | 1/4W Resistor          |
+| R3         | 4K7    | 1/4W Resistor          |
+| R4         | 1K     | 1/4W Resistor          |
+| R5         | 360K   | 1/4W Resistor          |
+| R6         | 6K8    | 1/4W Resistor          |
+| R7         | 51R    | 1/4W Resistor          |
+| R8         | 3K     | 1/4W Resistor          |
+| R11        | 2K     | 1/4W Resistor          |
+| R12        | 13K7   | 1/4W Resistor          |
+| R13        | 10K    | 1/4W Resistor          |
+| R14        | 150K   | 1/4W Resistor          |
+| R16        | 2K6    | 1/4W Resistor          |
+| D2         | LED    | 3mm LED (display)      |
+| D3         | LED    | 3mm Red LED            |
+| D4         | LED    | 3mm Red LED            |
+| D7         | LED    | 3mm Red LED            |
+| D5         | 1N4007 | Diode                  |
+| D6         | 1N4007 | Diode                  |
+| D1         | 1N5817 | Diode                  |
+| U1         | OP275  | IC                     |
+| FOCUS      | B50K   | Potentiometer          |
+| VOL        | B50K   | Potentiometer          |
+| DRIVE      | A500K  | Potentiometer          |
 
 Note that the bypass indicator LED and LEDR are on the PCB, and are listed here in the BOM.
 
