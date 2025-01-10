@@ -2,7 +2,7 @@
 
 The *Northern Harrier Distortion* is a PCB based on the famous ProCo RAT. There's little to be said about this distortion that hasn't alread been said.
 
-This layout is named after the Northern Harrier. The Harrier is a unique raptor known primarily for flying low over fields. It has an owl-like face and its behavior is similar to diurnal owls, such as short-eared owls. The name was chosen because the Northern Harrier hunts rodents... such as RATs.
+This layout is named after the Northern Harrier. The Harrier is a unique raptor known primarily for its habit of flying low over fields while hunting. Unlike hawks or falcons, it rarely flies above the treeline. It has an unsual owl-like face and its behavior is similar to diurnal owls, such as short-eared owls. The name was chosen because the Northern Harrier hunts rodents... such as RATs.
 
 If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/NorthernHarrierDistortion/gerber.zip) for fabrication.
 
