@@ -70,6 +70,10 @@ Here is the front of the PCB with references rather than values:
 
 ![Screenshot of the front of the PCB with references](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/pcb_references.png?raw=true)
 
+### Offboard wiring
+
+Offboard wiring is standard for this pedal. See the [detailed offboard wiring instructions](https://github.com/RWLPedal/music-pcbs/instructions/WIRING.md) if you want more specifics.
+
 ## Schematic
 
 Below is the KiCad schematic.

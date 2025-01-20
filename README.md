@@ -20,7 +20,14 @@ Here's a list of my own PCBs, based on commercial circuits:
 |     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     | Overdrive  | Mad Professor Sweet Honey |
 | [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion |         ProCo RAT         |
 
-## Conventions
+## Guides
+
+The following are guides for my layouts, or for pedal-building in general:
+
+* [Fabrication](instructions/FABRICATION.md) - How exactly do you turn the files shared into physical PCBs? Learn more here.
+* [Wiring](instructions/WIRING.md) - Shows how to wire all pedals I've shared.
+
+## Layout Conventions
 
 For my layouts, I've attempted to apply the conventions below. I've found these make populating and testing the PCB as trouble-free as possible.
 
