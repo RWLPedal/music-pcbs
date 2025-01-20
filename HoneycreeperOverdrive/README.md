@@ -90,7 +90,7 @@ Here is the front of the PCB with references rather than values:
 
 ### Offboard wiring
 
-Offboard wiring is standard for this pedal. See the [detailed offboard wiring instructions](https://github.com/RWLPedal/music-pcbs/instructions/blob/main/WIRING.md) if you want more specifics.
+Offboard wiring is standard for this pedal. See the [detailed offboard wiring instructions](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/WIRING.md) if you want more specifics.
 
 ## Schematic
 
