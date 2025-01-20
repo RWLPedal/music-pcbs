@@ -1,10 +1,10 @@
 # Fabrication
 
-If you're unsure how to get a PCB fabricated, this page should help you figure it out. As an up-front disclosure, I am not an expert on fabrication, but I've had a number of boards fabricated.
+If you're unsure how to get a PCB fabricated, this page should help you figure it out. As an up-front disclosure, I am not an expert on fabrication, but I've had a number of boards fabricated without problems. When I first started the fabrication process I was nervous (but shouldn't have been). I've tried to answer the questions here that I had when I began.
 
 ## Background
 
-You can skip this section if you just want to see the instructions, but it contains some useful context.
+You can skip this section if you just want to see instructions, but it contains useful context.
 
 There's a number of programs for laying out PCBs. These all have different conventions and save the files in different formats. I have only used KiCad, an open source option. KiCad will typically save three files for each PCB:
 
@@ -14,13 +14,13 @@ There's a number of programs for laying out PCBs. These all have different conve
 
 With these files you can change the circuit or adjust the PCB's layout. But, you might wonder, isn't it annoying to have many different files that describe the PCB? Yes.
 
-The good news is that there's a single format which is typically used to share the PCB, called Gerber. A Gerber file is a "compiled" version of the layout. This means it can't really be edited, since it removes a lot of the requisite information to understand the layout in any given program. But it contains all the information necessary for someone to fabricate the PCB.
+The good news is that there's a single format which is typically used to share the PCB, called Gerber. A Gerber file is a "compiled" version of the layout. The bad news is that this means it can't really be edited, since it removes a lot of the requisite information to understand the layout in any given program. But it contains all the information necessary for someone to fabricate the PCB.
 
 A Gerber file is simply a zip file containing 10+ other files. There are basically three types of files:
 
 * The PCB has a number of layers. These include traces, silkscreens, paste, edge cuts, etc.
-* The PCB has drilling instructions. Any through-hole components require drilling. I believe technically the drill files are not gerber files, but they get added to the gerber zip.
-* There's an overall set of instructions. I believe this is mostly ignored.
+* The PCB has drilling instructions. Any through-hole components require drilling. I believe technically the drill files are not gerber files, but they get added to the whole gerber zip.
+* There's an overall set of instructions. I believe this is mostly ignored in favor of options selected on PCB fabricator websites.
 
 ## Fabrication
 
