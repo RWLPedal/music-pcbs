@@ -1,8 +1,8 @@
 # Potoo Octave
 
-The *Potoo Octave* is a PCB based on Fuzzhugger(fx)'s Phantom Octave. It no longer appears to be in production. The Potoo is an extremely small octave, with just 15 easy-to-source components (including LEDR and bypass indicator LED). The original name refers to the fact that the octave effect changes shape and intensity according to volume, tone, picking intensity and pickups. You can get a lot of interesting tones out of this thing, from straight octave fuzz to a crunchy fuzz or relatively clean boost. It's loud and you can hear an octave effect further down the neck than many other octaves.
+The *Potoo Octave* is a PCB based on Fuzzhugger(fx)'s Phantom Octave, which appears to be out of production. The Potoo is a physically small octave pedal, consisting of just 15 easy-to-source components (including LEDR and bypass indicator LED). The original name refers to the fact that the octave effect changes shape and intensity according to volume, tone, picking intensity and pickups. You can get a lot of interesting tones out of this thing, from straight octave fuzz to a crunchy fuzz or relatively clean boost. It's loud and you can hear an octave effect further down the neck than many other octaves.
 
-The name for the pedal comes from one of the most freakish birds (and one of my personal favorite birds), the [Common Potoo](https://ebird.org/species/compot1), which has the nickname "Ghost Bird". Potoos are part of the frogmouth family, which also includes nightjars, but they're way weirder. Pootoos have enormous black eyes, an exceptionally wide mouth, and they're very scruffy. With eyes closed, they raise their head and are well-camouflaged as branches. With eyes open, they look more like a muppet than a bird.
+The name for the pedal comes from one of the most [freakish birds](https://www.youtube.com/watch?v=LkIlrNAGXQM) (and a personal favorite bird), the [Common Potoo](https://ebird.org/species/compot1), which has the nickname "Ghost Bird". Potoos are part of the frogmouth family, which also includes nightjars, but they're way weirder. Pootoos have enormous black eyes, an exceptionally wide mouth, and they're very scruffy. With eyes closed, they raise their head and are well-camouflaged as branches. With eyes open, they look more like a muppet than a bird.
 
 If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/PotooOctave/gerber.zip) for fabrication.
 
@@ -45,7 +45,7 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-This is a single-knob pedal, so there's really no control layout. The PCB is barely larger than the footprint of a potentimeter -slightly wider, and just enough longer to fit offboard wiring and bypass LED.
+This is a single-knob pedal, so there's really no control layout. The PCB is barely larger than the footprint of a potentimeter -slightly wider, and just enough long to also fit offboard wiring and bypass LED.
 
 ### Screenshots
 
