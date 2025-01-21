@@ -15,10 +15,11 @@ Here's a list of my own PCBs based on DIY circuits, or my own designs:
 
 Here's a list of my own PCBs, based on commercial circuits:
 
-|                          PCB Name                          | PCB Author |    Type    |         Based on          |
-| :--------------------------------------------------------: | :--------: | :--------: | :-----------------------: |
-|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     | Overdrive  | Mad Professor Sweet Honey |
-| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion |         ProCo RAT         |
+|                          PCB Name                          | PCB Author |    Type     |           Based on            |
+| :--------------------------------------------------------: | :--------: | :---------: | :---------------------------: |
+|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     |  Overdrive  |   Mad Professor Sweet Honey   |
+| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion  |           ProCo RAT           |
+|               [Potoo Octave](/PotooOctave/)                |    RWL     | Octave Fuzz | Fuzzhugger(fx) Phantom Octave |
 
 ## Guides
 
@@ -38,7 +39,7 @@ For my layouts, I've attempted to apply the conventions below. I've found these 
 * **Components**
   * *Indicator LED* - All boards include the LED and LEDR onboard. They can simply be omitted if you would prefer to populate these offboard.
   * *ICs* - Always positioned with pin 1 at the upper left (this means the IC notch will be facing the top of the PCB).
-  * *Electrolyic capacitors* - leads are positioned consistently across the entire PCB (ie, all negative leads might be facing the bottom, right, etc - according to the board).
+  * *Electrolytic capacitors* - leads are positioned consistently across the entire PCB (ie, all negative leads might be facing the bottom, right, etc - according to the board).
 * **Label/Silkscreen**
   * All input/output pads labeled with name on both front and back of the PCB. This is to prevent the most common source of errors I've encountered when I am testing/populating a PCB (connecting wires to the wrong pads).
   * All controls (potentiometers/switches) are labeled with name and value on front and back of the PCB. This is to prevent the second most common source of errors when I am populating a PCB (getting the potentiometer values mixed up). Having the name populated on the back allows easy reference when using a test platform to audition the PCB outside of a box, without needing to refer to the documentation.
