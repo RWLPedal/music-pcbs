@@ -60,7 +60,7 @@ If you'd like to just get started with the build, you can go ahead and download 
 | VOL1          | A10K     |             |                     |
 | TONE\_BYPASS1 | SW\_SPDT |             |                     |
 
-You may also want to view the [interactive BOM](https://github.com/RWLPedal/music-pcbs/blob/main/RedwingedOverdrive/images/interactive_bom.html).
+You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/RedwingedOverdrive/interactive_bom.html).
 
 ### Not listed
 
@@ -76,7 +76,8 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-The layout follows the PedalPCB layout conventions and positions for a 3-knob pedal with a single switch (the same layout as my [White-Throated Overdrive](https://github.com/RWLPedal/music-pcbs/blob/main/WhiteThroatedOverdrive)).
+This pedal follows the drill conventions for the 
+[125B Three-Knob with Switch layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
 
 ### Screenshots
 

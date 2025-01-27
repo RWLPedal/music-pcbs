@@ -20,11 +20,13 @@ Here's a list of my own PCBs, based on commercial circuits:
 |     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     |  Overdrive  |   Mad Professor Sweet Honey   |
 | [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion  |           ProCo RAT           |
 |               [Potoo Octave](/PotooOctave/)                |    RWL     | Octave Fuzz | Fuzzhugger(fx) Phantom Octave |
+|        [Red-winged Overdrive](/RedwingedOverdrive/)        |    RWL     |  Overdrive  |         EHX Hot Tubes         |
 
 ## Guides
 
 The following are guides for my layouts, or for pedal-building in general:
 
+* [Drilling](instructions/DRILLING.md) - Drill templates for RWL pedals.
 * [Fabrication](instructions/FABRICATION.md) - How exactly do you turn the files shared into physical PCBs? Learn more here.
 * [Wiring](instructions/WIRING.md) - Shows how to wire all pedals I've shared.
 
