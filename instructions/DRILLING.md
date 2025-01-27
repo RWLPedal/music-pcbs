@@ -22,6 +22,8 @@ All RWL PCBs include an onboard LED, so that's not listed in the generic section
 
 ### 125B Three-Knob
 
+![Three-Knob](images/three_knob.png)
+
 This is the layout for a three-knob pedal in a 125B enclosure. It's a standard PedalPCB layout.
 
 | Description | Diameter | X Position | Y Position | Note             |
@@ -36,6 +38,8 @@ Most three-knob pedals are overdrive/fuzz/distortion, where the knobs will have 
 Here's the [Tayda template](https://drill.taydakits.com/box-designs/new?public_key=TFREWG9zYWl5NUE0OTBrQmdlZGErZz09Cg==).
 
 ### 125B Three-Knob with Switch
+
+![Three-Knob w/Switch](images/three_knob_w_switch.png)
 
 This is the layout for a three-knob pedal in a 125B enclosure, which also includes a switch.
 
@@ -52,6 +56,8 @@ Here's the [Tayda template](https://drill.taydakits.com/box-designs/new?public_k
 This is also a standard PedalPCB layout (used for the[Chop Shop](https://www.pedalpcb.com/product/pcb051/), for example), but note that older PedalPCB boards with this layout have the switch vertically aligned with the leftmost knob, whereas this layout has it offset by 4mm. Some PedalPCB boards with three knobs and a switch have the switch centered, where the LED is located for this layout.
 
 ### 125B Five-Knob, LED Top
+
+![125B Five-Knob, LED Top](images/five_knob_led_top.png)
 
 This is the layout for a five-knob pedal in a 125B enclosure, there the LED is centered in the grid of knobs in the middle top.
 

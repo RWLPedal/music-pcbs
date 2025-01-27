@@ -15,7 +15,7 @@ Simply wiring these can be enough - for example, for basic testing or if you're 
 
 ## Wiring RWL layouts
 
-![Wiring diagram](wiring.png)
+![Wiring diagram](images/wiring.png)
 
 I follow the typical PedalPCB conventions for wiring, as detailed in the diagram above. The diagram shows a pedal as viewed from behind, with the lid removed. The diagram has the following wires:
 
