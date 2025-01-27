@@ -1,12 +1,12 @@
 # Sharp-Shinned Fuzz
 
-The *King Eider Fuzz* is a PCB based on the [Effects Layouts One-Knobber](https://effectslayouts.blogspot.com/2016/06/one-knobber-project.html). This is a unique and clever circuit which can be built as 5 different pedals, depending on the components selected. This PCB supports all the layouts. You can build:
+The *King Eider Fuzz* is a PCB based on the [Effects Layouts One-Knobber](https://effectslayouts.blogspot.com/2016/06/one-knobber-project.html). This is a unique and clever circuit which can be built as 5 different pedals, depending on the components selected. This PCB supports all five layouts. You can build:
 
 * Colorsound One Knob Fuzz
 * Black Arts Toneworks Ritual Fuzz
 * D.A.M. Meathead
 * D.A.M. Meathead Dark
-* One-knob adaptation of '66 Voz ToneBender
+* One-knob adaptation of '66 Vox ToneBender
 
 This layout is named after the [Sharp-Shinned Hawk](https://ebird.org/species/shshaw), a small hawk common across North America, known for its adaptability.
 
