@@ -15,19 +15,20 @@ Here's a list of my own PCBs based on DIY circuits, or my own designs:
 
 Here's a list of my own PCBs, based on commercial circuits:
 
-|                          PCB Name                          | PCB Author |    Type     |           Based on            |
-| :--------------------------------------------------------: | :--------: | :---------: | :---------------------------: |
-|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     |  Overdrive  |   Mad Professor Sweet Honey   |
-| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion  |           ProCo RAT           |
-|               [Potoo Octave](/PotooOctave/)                |    RWL     | Octave Fuzz | Fuzzhugger(fx) Phantom Octave |
-|        [Red-winged Overdrive](/RedwingedOverdrive/)        |    RWL     |  Overdrive  |         EHX Hot Tubes         |
+|                          PCB Name                          | PCB Author |    Type     |                 Based on                 |
+| :--------------------------------------------------------: | :--------: | :---------: | :--------------------------------------: |
+|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     |  Overdrive  |        Mad Professor Sweet Honey         |
+|             [King Eider Fuzz](/KingEiderFuzz/)             |    RWL     |    Fuzz     | Catalinbread Katzenkönig/AionFX Poseidon |
+| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion  |                ProCo RAT                 |
+|               [Potoo Octave](/PotooOctave/)                |    RWL     | Octave Fuzz |      Fuzzhugger(fx) Phantom Octave       |
+|        [Red-winged Overdrive](/RedwingedOverdrive/)        |    RWL     |  Overdrive  |              EHX Hot Tubes               |
 
 ## Guides
 
 The following are guides for my layouts, or for pedal-building in general:
 
 * [Drilling](instructions/DRILLING.md) - Drill templates for RWL pedals.
-* [Fabrication](instructions/FABRICATION.md) - How exactly do you turn the files shared into physical PCBs? Learn more here.
+* [Fabrication](instructions/FABRICATION.md) - How exactly do you turn Gerber files into physical PCBs? Learn more here.
 * [Wiring](instructions/WIRING.md) - Shows how to wire all pedals I've shared.
 
 ## Layout Conventions
