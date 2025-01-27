@@ -49,4 +49,21 @@ This is the layout for a three-knob pedal in a 125B enclosure, which also includ
 
 Here's the [Tayda template](https://drill.taydakits.com/box-designs/new?public_key=bFU1ZURpZ2Y5T0VNM2VHdXU5UTZ2UT09Cg==).
 
-It's a standard PedalPCB layout, but note that older PedalPCB boards with this layout have the switch vertically aligned with the leftmost knob, whereas this layout has it offset by 4mm.
+This is also a standard PedalPCB layout (used for the[Chop Shop](https://www.pedalpcb.com/product/pcb051/), for example), but note that older PedalPCB boards with this layout have the switch vertically aligned with the leftmost knob, whereas this layout has it offset by 4mm. Some PedalPCB boards with three knobs and a switch have the switch centered, where the LED is located for this layout.
+
+### 125B Five-Knob, LED Top
+
+This is the layout for a five-knob pedal in a 125B enclosure, there the LED is centered in the grid of knobs in the middle top.
+
+| Description | Diameter | X Position | Y Position |
+| :---- | :---- | :---- | :---- |
+| Top Left Knob | 7.4mm | \-20.32mm | 38.1mm |
+| Top Right Knob | 7.4mm | 20.32mm | 38.1mm |
+| Bottom Left Knob | 7.4mm | \-20.32mm | 12.7mm |
+| Bottom Center Knob | 7.4mm | 0mm | 12.7mm |
+| Bottom Right Knob | 7.4mm | 20.32mm | 12.7mm |
+| LED | 4.4mm | 0mm | 38.1mm |
+
+On PedalPCB, this layout is known as the "5-Knob Type 1" layout.
+
+Here's the [Tayda template](https://drill.taydakits.com/box-designs/new?public_key=TXhROUIwcVl6SG1lS3o2cE1qbEFPUT09Cg==).

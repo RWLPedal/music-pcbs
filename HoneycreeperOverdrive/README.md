@@ -74,7 +74,8 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-The layout follows the PedalPCB layout conventions and positions for a 3-knob pedal, and will fit in any drilled 3-knob enclosure drilled for PedalPCB that has the LED at the top of the pedal.
+This pedal follows the drill conventions for the 
+[125B Three-Knob layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
 
 ### Screenshots
 

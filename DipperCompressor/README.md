@@ -77,7 +77,8 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-The layout follows the PedalPCB layout conventions and positions for a "5-knob (Type 1)" pedal - which has a top row with potentiometer/LED/potentiometer, and 3 potentiometers on the bottom row. It should any enclosures drilled to match.
+This pedal follows the drill conventions for the 
+[125B Five-Knob, LED Top layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md), also known as the Five-Knob Type 1.
 
 ### Screenshots
 

@@ -61,7 +61,8 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-The layout follows the PedalPCB layout conventions and positions for a 3-knob pedal with a single switch (the same layout as a [Chop Shop](https://www.pedalpcb.com/product/pcb051/), for example). Note that this layout convention has evolved over the past few years, and this layout follows the most recent convention as of early 2025, which has slightly more space between the lower knob and the switch than earlier iterations. You can also adapt a regular 3-knob enclosure, as the pots are in the same location. The LED is positioned to go in line between the two knobs at the top of the pedal.
+This pedal follows the drill conventions for the 
+[125B Three-Knob with Switch layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
 
 ### Screenshots
 

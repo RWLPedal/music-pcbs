@@ -66,7 +66,8 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-The layout follows the PedalPCB layout conventions and positions for a 3-knob pedal. You should be able to use it interchangeably with PedalPCB three-knob enclosures, or three-knob enclosures from my other layouts. The LED is positioned to go in line between the two knobs at the top of the pedal.
+This pedal follows the drill conventions for the 
+[125B Three-Knob layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
 
 ### Screenshots
 
