@@ -1,8 +1,12 @@
 # Gray Hornbill Fuzz
 
+<img src="images/grayhornbill_fuzz.png?raw=true" alt="Cover image with gutshot" height="500px">
+
 The *Gray Hornbill Fuzz* is a PCB based on a Tim Escobedo circuit fragment, the Jawari. The circuit fragment does not include a power section, but all necessary components are included on this PCB.
 
 The Jawari is reputed to sound like a sitar, and it does - particularly on the D and G strings, between frets 0 and 12. Elsewhere on the neck, it's a solid-sounding, slightly nasally, fuzz. You'll want to play around with the tone, volume, and pickups on your guitar and the pedal. Note that this circuit is relatively quiet and barely has unity gain with the volume maxed out.
+
+If you look at the gutshot above, you'll see that there's a separate boost board in the pedal, the [Szukalski Uggsy](https://github.com/szukalski/pedal-dylan159/tree/main/uggsy), based on the Dylan159 Boot Boost, but with a trimpot instead of a regular potentiometer. This is to give the pedal a reasonable amount of volume.
 
 The name for this pedal, the [Gray Hornbill](https://ebird.org/species/inghor2) Fuzz, was selected because the Indian Gray Hornbill is a distinctive bird from India. This bird looks like a cross between a small dinosaur and a toucan, and is one of a number of hornbill birds.
 

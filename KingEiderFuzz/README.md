@@ -1,5 +1,7 @@
 # King Eider Fuzz
 
+<img src="images/kingeider_fuzz.png?raw=true" alt="Cover image with gutshot" height="500px">
+
 The *King Eider Fuzz* is a PCB based on the Catalinbread Katzenkönig. It also has a clipping switch, as with the AionFX Poseidon. The Katzenkönig is a combination of a Tone Bender and a RAT, and it absolutely rips. The original Katzenkönig was published with a schematic licensed under Creative Commons, which this layout also uses as a license.
 
 The name for this pedal, the [King Eider](https://ebird.org/species/kineid), is based on the Katzenkönig name - literally Cat King. So another king is approporiate. The King Eider is an arctic duck with a girthy, magnificent bill.
