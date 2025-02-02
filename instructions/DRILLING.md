@@ -20,6 +20,22 @@ All RWL PCBs include an onboard LED, so that's not listed in the generic section
 
 ## Specific Layouts
 
+### 125B Two-Knob
+
+![Three-Knob](images/two_knob.png)
+
+This is the layout for a two-knob pedal in a 125B enclosure. This layout is similar to the three-knob layout... but with one fewer knob.
+
+| Description | Diameter | X Position | Y Position | Note             |
+| :---------- | :------- | :--------- | :--------- | :--------------- |
+| Left Knob   | 7.4mm    | \-16.5mm   | 37.1mm     | Typically Volume |
+| Right Knob  | 7.4mm    | 16.5mm     | 37.1mm     | Typically Gain   |
+| LED         | 4.4mm    | 0mm        | 37.1mm     |                  |
+
+Where possible, this layout will have the volume or level on the left, and other functions on the right.
+
+Here's the [Tayda template](https://drill.taydakits.com/box-designs/new?public_key=cGxxdXdJMmdXUDFKTlhBMmhjQmU0UT09Cg==).
+
 ### 125B Three-Knob
 
 ![Three-Knob](images/three_knob.png)

@@ -51,7 +51,7 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-This pedal has a two-hole layout. Simply omit the bottom knob from the [125B Three-Knob layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
+This pedal uses the [125B Two-Knob layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
 
 ### Screenshots
 
