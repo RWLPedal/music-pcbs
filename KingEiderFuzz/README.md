@@ -1,6 +1,6 @@
 # King Eider Fuzz
 
-<img src="images/kingeider_fuzz.png?raw=true" alt="Cover image with gutshot" height="500px">
+<img src="images/kingeider_fuzz.png?raw=true" alt="Cover image with gutshot" style="max-width: 100%;max-height:500px">
 
 The *King Eider Fuzz* is a PCB based on the Catalinbread Katzenkönig. It also has a clipping switch, as with the AionFX Poseidon. The Katzenkönig is a combination of a Tone Bender and a RAT, and it absolutely rips. The original Katzenkönig was published with a schematic licensed under Creative Commons, which this layout also uses as a license.
 

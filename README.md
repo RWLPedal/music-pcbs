@@ -22,6 +22,7 @@ Here's a list of my own PCBs, based on commercial circuits:
 |     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     |  Overdrive  |        Mad Professor Sweet Honey         |
 |             [King Eider Fuzz](/KingEiderFuzz/)             |    RWL     |    Fuzz     | Catalinbread Katzenkönig/AionFX Poseidon |
 | [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion  |                ProCo RAT                 |
+|        [Morepork Distortion](/MoreporkDistortion/)         |    RWL     | Distortion  |             MXR Distortion+              |
 |               [Potoo Octave](/PotooOctave/)                |    RWL     | Octave Fuzz |      Fuzzhugger(fx) Phantom Octave       |
 |        [Red-winged Overdrive](/RedwingedOverdrive/)        |    RWL     |  Overdrive  |              EHX Hot Tubes               |
 
