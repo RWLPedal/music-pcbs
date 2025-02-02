@@ -1,6 +1,6 @@
 # Shiny Cowbird (Dyl-ei Fuzz Apprentice)
 
-<img src="https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/shiny_cowbird.png?raw=true" alt="Cover image with gutshot" height="500px">
+<img src="https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/shiny_cowbird.png?raw=true" alt="Cover image with gutshot">
 
 The *Shiny Cowbird* is a PCB for [Dylan159's Dyl-ei Fuzz Apprentice](https://bentfishbowl.wixsite.com/electronics/post/dyl-ei-fuzz-apprentice-trev-ei-brazzmaster), which is in turn a modified *Shin-ei FY-2 Companion Fuzz*. This is a fuzz with a distinct harsh nasally tone - charming and quite unique. It only has a few components, and they're all easily obtained.
 
