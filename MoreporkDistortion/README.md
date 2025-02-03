@@ -1,11 +1,12 @@
 # Morepork Distortion
 
-
 The *Morepork Distortion* is a PCB based on the MXR Distortion+. The layout is true to the original pedal.
 
 The name for this pedal, the [Morepork](https://ebird.org/species/morepo2), comes from a small owl from New Zealand. I thought that, for a pedal based on the "Distortion Plus," plus means more - and how can you not like a bird called the Morepork?! Ad where does that name come from? The Morepork's call sounds like "Morepork," although I'd say that's a bit of a stretch.
 
 I suspect, like many non-New Zealanders, that my first encounter with the Morepork was through Discworld's Ankh-Morpork. Which is named for the owl! The city arms have an owl on them.
+
+I had some fun with this layout. The PCB is set up like a "+" to mirror the original circuit's name.
 
 If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/MoreporkDistortion/gerber.zip) for fabrication.
 
@@ -27,8 +28,8 @@ If you'd like to just get started with the build, you can go ahead and download 
 | R100       | 4K7    | LEDR             |
 | R101       | 1M     |                  |
 | R102       | 1M     |                  |
-| D1         | 1N34A  |                  |
-| D2         | 1N34A  |                  |
+| D1         | GE     | 1N270 or 1N34A   |
+| D2         | GE     | 1N270 or 1N34A   |
 | D100       | LED    | Bypass Indicator |
 | D101       | 1N5817 |                  |
 | U1         | LM741  |                  |
@@ -37,9 +38,9 @@ If you'd like to just get started with the build, you can go ahead and download 
 
 There is one change in the label for this circuit compared to the original, which is the DISTORTION or gain knob. Originally this knob was a linear 1M potentiometer. However, this has almost no effect through most of its travel, with the distortion suddenly appearing in the last 10% or so of its sweep. Swapping it for a reverse logarithmic taper makes it more usable. Similarly, the distortion is most noticeable for the Morepork when the resistance is low, so the full 1M sweep is not necessary. You can use B1M, C1M, C500K, C100k, or similar pots.
 
-This circuit is the building block for many other circuits, so you could experiment with other diodes (1N4148 is common) and ICs (RC4558, etc).
+As for diodes, the original Distortion+ uses germanium: 1N270s. It's common on many diagrams to show 1N34A instead. You can experiment with other diodes (1N4148 is common on other pedals with the same circuit layout).
 
-This is a simple build, but You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/MoreporkDistortion/interactive_bom.html).
+This is a simple build, but you may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/MoreporkDistortion/interactive_bom.html).
 
 ### Not listed
 

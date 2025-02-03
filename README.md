@@ -13,6 +13,7 @@ Here's a list of my own PCBs based on DIY circuits, or my own designs:
 |       [Gray Hornbill Fuzz](/GrayHornbillFuzz/)        |    RWL     | Sitar/Fuzz |          Jawari          |  Tim Escobedo   |
 |       [Sharp-shinned Fuzz](/SharpShinnedFuzz/)        |    RWL     |    Fuzz    |   One-Knobber Project    | Effects Layouts |
 |            [Shiny Cowbird](/ShinyCowbird/)            |    RWL     |    Fuzz    |  Dyl-Ei Fuzz Apprentice  |    Dylan159     |
+|            [Tiny Tyrant](/TinyTyrantPll/)             |    RWL     |    PLL     |         PLLedal          |    Dylan159     |
 | [White-Throated Overdrive](/WhiteThroatedOverdrive/)  |    RWL     | Overdrive  | Dudson Narrowest Castest |    Dylan159     |
 
 Here's a list of my own PCBs, based on commercial circuits:

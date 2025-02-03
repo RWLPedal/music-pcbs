@@ -77,14 +77,14 @@ This is also a standard PedalPCB layout (used for the[Chop Shop](https://www.ped
 
 This is the layout for a five-knob pedal in a 125B enclosure, there the LED is centered in the grid of knobs in the middle top.
 
-| Description | Diameter | X Position | Y Position |
-| :---- | :---- | :---- | :---- |
-| Top Left Knob | 7.4mm | \-20.32mm | 38.1mm |
-| Top Right Knob | 7.4mm | 20.32mm | 38.1mm |
-| Bottom Left Knob | 7.4mm | \-20.32mm | 12.7mm |
-| Bottom Center Knob | 7.4mm | 0mm | 12.7mm |
-| Bottom Right Knob | 7.4mm | 20.32mm | 12.7mm |
-| LED | 4.4mm | 0mm | 38.1mm |
+| Description        | Diameter | X Position | Y Position |
+| :----------------- | :------- | :--------- | :--------- |
+| Top Left Knob      | 7.4mm    | \-20.32mm  | 38.1mm     |
+| Top Right Knob     | 7.4mm    | 20.32mm    | 38.1mm     |
+| Bottom Left Knob   | 7.4mm    | \-20.32mm  | 12.7mm     |
+| Bottom Center Knob | 7.4mm    | 0mm        | 12.7mm     |
+| Bottom Right Knob  | 7.4mm    | 20.32mm    | 12.7mm     |
+| LED                | 4.4mm    | 0mm        | 38.1mm     |
 
 On PedalPCB, this layout is known as the "5-Knob Type 1" layout.
 
