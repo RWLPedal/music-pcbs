@@ -8,37 +8,48 @@ If you'd like to just get started with the build, you can [find the PCB on PCBWa
 
 ## Bill of materials
 
+| References | Value   | Type                  | Notes               |
+| :--------- | :------ | :-------------------- | :------------------ |
+| C1         | 47N     | Film Capacitor        |                     |
+| C2         | 33N     | Film Capacitor        |                     |
+| C3         | 47P     | MLCC Capacitor        |                     |
+| C4         | 47N     | Film Capacitor        |                     |
+| C5         | 6N8     | Film Capacitor        |                     |
+| C6         | 22N     | Film Capacitor        |                     |
+| C7         | 220N    | Film Capacitor        |                     |
+| C8         | 1U      | Film Capacitor        |                     |
+| C100       | 100U    | Electrolyic Capacitor |                     |
+| D1         | GE      | Germanium Diode       |                     |
+| D2         | GE      | Germanium Diode       |                     |
+| D3         | 1N4148  | Diode                 |                     |
+| D100       | LED     | LED                   | Bypass Indicator    |
+| D101       | 1N5817  | Schottky Diode        | Polarity protection |
+| Q1         | PN2222A | Transistor            |                     |
+| Q2         | 2N3906  | Transistor            |                     |
+| Q3         | BC109C  | Transistor            |                     |
+| R1         | 10K     | 1/4W Resistor         |                     |
+| R2         | 560K    | 1/4W Resistor         |                     |
+| R3         | 560K    | 1/4W Resistor         |                     |
+| R4         | 150K    | 1/4W Resistor         |                     |
+| R5         | 22K     | 1/4W Resistor         |                     |
+| R6         | 15K     | 1/4W Resistor         |                     |
+| R7         | 100R    | 1/4W Resistor         |                     |
+| R8         | 47K     | 1/4W Resistor         |                     |
+| R9         | 15K     | 1/4W Resistor         |                     |
+| R10        | 82K     | 1/4W Resistor         |                     |
+| R11        | 1K      | 1/4W Resistor         |                     |
+| R100       | 4K7     | 1/4W Resistor         | LEDR                |
+| DEATH      | B500K   | Potentiometer         |                     |
+| INPUT      | A100K   | Potentiometer         |                     |
+| LIFE       | B100K   | Potentiometer         |                     |
+| STARVE     | B100K   | Potentiometer         |                     |
+| VOODOO     | A100K   | Potentiometer         |                     |
 
-| References | Value  | Type                   | Notes               |
-| :--------- | :----- | :--------------------- | :------------------ |
-| C1         | 100N   | Film Capacitor         |                     |
-| C2         | 2U2    | Electrolytic Capacitor |                     |
-| C3         | 2U2    | Electrolytic Capacitor |                     |
-| C4         | 220P   | MLCC Capacitor         |                     |
-| C5         | 220N   | Film Capacitor         |                     |
-| C100       | 2U2    | Electrolytic Capacitor |                     |
-| R1         | 470K   | 1/4W Resistor          |                     |
-| R2         | 1M     | 1/4W Resistor          |                     |
-| R3         | 1M     | 1/4W Resistor          |                     |
-| R4         | 2K2    | 1/4W Resistor          |                     |
-| R5         | 1M     | 1/4W Resistor          |                     |
-| R6         | 10K    | 1/4W Resistor          |                     |
-| R100       | 4K7    | 1/4W Resistor          | LEDR                |
-| R101       | 2M2    | 1/4W Resistor          |                     |
-| R102       | 2M2    | 1/4W Resistor          |                     |
-| D1         | 1N4148 | Diode                  |                     |
-| D2         | 1N4148 | Diode                  |                     |
-| D3         | 1N4148 | Diode                  |                     |
-| D4         | 1N4148 | Diode                  |                     |
-| D100       | LED    | LED                    | Bypass Indicator    |
-| D101       | 1N5817 | Schottky Diode         | Polarity Protection |
-| U1         | RC4558 | IC                     |                     |
-| DRIVE      | A100K  | Potentiometer          |                     |
-| VOLUME     | A100K  | Potentiometer          |                     |
+There are a feew unusual components to this build. The original schematic used a 2N2222A. This is somewhat expensive ($2-$3), depending on your source. The PCB shows PN2222A, which is very cheap. Likewise, the original calls out a BC109C. I used a BC109 with no apparent adverse effects.
 
-All of the parts in this build should be easily sourced.
+I believe that any germanium diodes should work. I think I used D9Gs.
 
-This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/LilBlackCormorantFuzz/interactive_bom.html) is also available.
+This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/AnhingaDistortion/interactive_bom.html) is also available.
 
 ### Not listed
 
@@ -47,7 +58,7 @@ As with most guitar pedal BOMs, the following components are not listed above:
 * Footswitch
 * DC Jack
 * 2x 1/4" audio jack
-* Enclosure: this pedal fits into a 125B enclosure. Unlike the original, it wasn't designed for a smaller enclosure.
+* Enclosure: this pedal fits into a 125B enclosure.
 * Sockets (for the ICs and diodes).
 * Wire
 * Solder
@@ -86,4 +97,4 @@ This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attributio
 
 ## Versions
 
-* V0.9 - First version, worked perfectly. There were no subsequent changes to the fabricated pcb. Thanks to [PCBWay](https://www.pcbway.com/), [project link](https://www.pcbway.com/project/shareproject/L_il_Black_Cormorant_PCB_a7334241.html) for sponsoring the fabrication of the test build.
+* V0.9 - First version, worked perfectly. Very minor subsequent silkscreen changes. Thanks to [PCBWay](https://www.pcbway.com/) for sponsoring the fabrication of the test build. You can get the exact board I fabricated [here](https://www.pcbway.com/project/shareproject/L_il_Black_Cormorant_PCB_a7334241.html).
