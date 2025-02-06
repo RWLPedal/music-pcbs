@@ -11,6 +11,7 @@ Here's a list of my own PCBs based on DIY circuits, or my own designs:
 |        [Dipper Compressor](/DipperCompressor/)        |    RWL     | Compressor |    "That" Compressor     |    Dylan159     |
 | [Footswitch Daughterboard](/FootswitchDaughterboard/) |    RWL     |  Utility   |           N/A            |       N/A       |
 |       [Gray Hornbill Fuzz](/GrayHornbillFuzz/)        |    RWL     | Sitar/Fuzz |          Jawari          |  Tim Escobedo   |
+| [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)  |    RWL     |    Fuzz    |      L'il Black Key      |      BYOC       |
 |       [Sharp-shinned Fuzz](/SharpShinnedFuzz/)        |    RWL     |    Fuzz    |   One-Knobber Project    | Effects Layouts |
 |            [Shiny Cowbird](/ShinyCowbird/)            |    RWL     |    Fuzz    |  Dyl-Ei Fuzz Apprentice  |    Dylan159     |
 |            [Tiny Tyrant](/TinyTyrantPll/)             |    RWL     |    PLL     |         PLLedal          |    Dylan159     |
