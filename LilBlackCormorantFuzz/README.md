@@ -49,7 +49,7 @@ There are a feew unusual components to this build. The original schematic used a
 
 I believe that any germanium diodes should work. I think I used D9Gs.
 
-This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/AnhingaDistortion/interactive_bom.html) is also available.
+This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/LilBlackCormorantFuzz/interactive_bom.html) is also available.
 
 ### Not listed
 
