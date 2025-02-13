@@ -32,7 +32,7 @@ I think these sites regularly update their interface, so I won't include screens
 
 [PCBWay](https://www.pcbway.com/) is a Chinese PCB fabricator. They offer both an option to fabricate from Gerbers, as well as an option to share projects for quick ordering ([example](https://www.pcbway.com/project/shareproject/L_il_Black_Cormorant_PCB_a7334241.html)). Ordering from a previously shared project is simple enough. If you want to fabricate an order with PCBWay using a gerber file, you can follow these instructions:
 
-1. Go to the [quick order](https://www.pcbway.com/QuickOrderOnline.aspx) page. Note that this page is not linked on the main PCBWay site, which has a slightly more complicated process. This page is intimidating but you'll leave most things unchanged.
+1. Go to the [quick order](https://www.pcbway.com/QuickOrderOnline.aspx) page. Note that this page is not linked from the PCBWay homepage, which featurse a process that requires selection of PCB board size (which nobody shares for pedals). This page is intimidating but you'll leave most things unchanged so don't worry about it.
 2.  There's a link to "Add Gerber File" and select the file you want fabricated. This will auto-load the file. You'll see the layout in miniature.
 3.  Note that the minimum order is 5 PCBs. Don't worry, they're cheap. Give away the extras, make variations, or use for birthday presents.
 4. You'll leave most fields unchanged. All RWL PCBs are very standard. You can change a few fields if you want:

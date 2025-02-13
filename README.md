@@ -9,6 +9,7 @@ Here's a list of my own PCBs based on DIY circuits, or my own designs:
 |                       PCB Name                        | PCB Author |    Type    |       Circuit Name       | Circuit Author  |
 | :---------------------------------------------------: | :--------: | :--------: | :----------------------: | :-------------: |
 |        [Dipper Compressor](/DipperCompressor/)        |    RWL     | Compressor |    "That" Compressor     |    Dylan159     |
+|         [Fledgling Phaser](/FledglingPhaser/)         |    RWL     |   Phaser   |   PUP: Litter of Four    |    Dylan159     |
 | [Footswitch Daughterboard](/FootswitchDaughterboard/) |    RWL     |  Utility   |           N/A            |       N/A       |
 |       [Gray Hornbill Fuzz](/GrayHornbillFuzz/)        |    RWL     | Sitar/Fuzz |          Jawari          |  Tim Escobedo   |
 | [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)  |    RWL     |    Fuzz    |      L'il Black Key      |      BYOC       |
