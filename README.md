@@ -22,6 +22,7 @@ Here's a list of my own PCBs, based on commercial circuits:
 
 |                          PCB Name                          | PCB Author |    Type     |                 Based on                 |
 | :--------------------------------------------------------: | :--------: | :---------: | :--------------------------------------: |
+|           [CrimsonKiwi](/CrimsonKiwiOverdrive/)            |    RWL     |  Overdrive  |         Way Huge Purple Platypus         |
 |     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     |  Overdrive  |        Mad Professor Sweet Honey         |
 |             [King Eider Fuzz](/KingEiderFuzz/)             |    RWL     |    Fuzz     | Catalinbread Katzenkönig/AionFX Poseidon |
 | [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     | Distortion  |                ProCo RAT                 |
