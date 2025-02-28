@@ -141,4 +141,5 @@ This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attributio
 
 ## Versions
 
-* V1.0 - First public version. Verified, works well.
+* V1.0 - First public version. Small tweaks to cap positioning for more breathing room, updated version number.
+* V0.9 - First version. Verified, works well, but 1UF film caps are too tightly clustered.
