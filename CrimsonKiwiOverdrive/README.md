@@ -1,8 +1,8 @@
 # Crimson Kiwi Overdrive
 
-The *Crimson Kiwi Overdrive* is a PCB based on the Way Huge Purple Platypus, a fairly rare pedal from the 90s. It's a very heavy overdrive, perhaps closer to fuzz, with some octave tones.
+The *Crimson Kiwi Overdrive* is a PCB based on the Way Huge Purple Platypus, a fairly rare pedal from the 90s. It's a very heavy "octave overdrive," perhaps closer to an octave fuzz. The octave effect is quite pronounced all the way down the neck, although as with most octave effects it's most prominent above the 12th fret. The circuit is similar to the Way Huge Red Llama.
 
-Platypus are very weird mammals, and Kiwis are very weird birds - hence the name.
+The Crimson Kiwi name is based on the fact that platypus are very weird mammals... and Kiwis are very weird birds.
 
 If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/CrimsonKiwiOverdrive/gerber.zip) for fabrication.
 
