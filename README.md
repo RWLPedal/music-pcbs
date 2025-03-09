@@ -11,18 +11,19 @@ PCBs shared here follow consistent [conventions](instructions/CONVENTIONS.md) an
 ### DIY-related PCBs
 The following PCBs are DIY-related, meaning they are based on kits or from circuits shared on pedal-building forums.
 
-|                          PCB Name                           | PCB Author |       Type       |       Circuit Name       | Circuit Author  |
-| :---------------------------------------------------------: | :--------: | :--------------: | :----------------------: | :-------------: |
-|           [Dipper Compressor](/DipperCompressor/)           |    RWL     |    Compressor    |    "That" Compressor     |    Dylan159     |
-|            [Fledgling Phaser](/FledglingPhaser/)            |    RWL     |      Phaser      |   PUP: Litter of Four    |    Dylan159     |
-|    [Footswitch Daughterboard](/FootswitchDaughterboard/)    |    RWL     |     Utility      |           N/A            |       N/A       |
-|          [Gray Hornbill Fuzz](/GrayHornbillFuzz/)           |    RWL     |    Sitar/Fuzz    |          Jawari          |  Tim Escobedo   |
-|    [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)     |    RWL     |       Fuzz       |      L'il Black Key      |      BYOC       |
-| [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) |    RWL     | Harmonic Tremolo |        Equanimity        |  Cees van Eijk  |
-|          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |    RWL     |       Fuzz       |   One-Knobber Project    | Effects Layouts |
-|               [Shiny Cowbird](/ShinyCowbird/)               |    RWL     |       Fuzz       |  Dyl-Ei Fuzz Apprentice  |    Dylan159     |
-|               [Tiny Tyrant](/TinyTyrantPll/)                |    RWL     |       PLL        |         PLLedal          |    Dylan159     |
-|    [White-Throated Overdrive](/WhiteThroatedOverdrive/)     |    RWL     |    Overdrive     | Dudson Narrowest Castest |    Dylan159     |
+|                          PCB Name                           | PCB Author |       Type       |        Circuit Name         | Circuit Author  |
+| :---------------------------------------------------------: | :--------: | :--------------: | :-------------------------: | :-------------: |
+|    [Buffalo-Weaver Overdrive](/BuffaloWeaverOverdrive/)     |    RWL     |    Overdrive     | Guitar Magazine Tube Bender |   Dan Coggins   |
+|           [Dipper Compressor](/DipperCompressor/)           |    RWL     |    Compressor    |      "That" Compressor      |    Dylan159     |
+|            [Fledgling Phaser](/FledglingPhaser/)            |    RWL     |      Phaser      |     PUP: Litter of Four     |    Dylan159     |
+|    [Footswitch Daughterboard](/FootswitchDaughterboard/)    |    RWL     |     Utility      |             N/A             |       N/A       |
+|          [Gray Hornbill Fuzz](/GrayHornbillFuzz/)           |    RWL     |    Sitar/Fuzz    |           Jawari            |  Tim Escobedo   |
+|    [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)     |    RWL     |       Fuzz       |       L'il Black Key        |      BYOC       |
+| [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) |    RWL     | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |
+|          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |    RWL     |       Fuzz       |     One-Knobber Project     | Effects Layouts |
+|               [Shiny Cowbird](/ShinyCowbird/)               |    RWL     |       Fuzz       |   Dyl-Ei Fuzz Apprentice    |    Dylan159     |
+|               [Tiny Tyrant](/TinyTyrantPll/)                |    RWL     |       PLL        |           PLLedal           |    Dylan159     |
+|    [White-Throated Overdrive](/WhiteThroatedOverdrive/)     |    RWL     |    Overdrive     |  Dudson Narrowest Castest   |    Dylan159     |
 
 ### Commercial
 
