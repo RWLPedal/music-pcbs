@@ -11,33 +11,34 @@ PCBs shared here follow consistent [conventions](instructions/CONVENTIONS.md) an
 ### DIY-related PCBs
 The following PCBs are DIY-related, meaning they are based on kits or from circuits shared on pedal-building forums.
 
-|                          PCB Name                           | PCB Author |       Type       |        Circuit Name         | Circuit Author  |
-| :---------------------------------------------------------: | :--------: | :--------------: | :-------------------------: | :-------------: |
-|    [Buffalo-Weaver Overdrive](/BuffaloWeaverOverdrive/)     |    RWL     |    Overdrive     | Guitar Magazine Tube Bender |   Dan Coggins   |
-|           [Dipper Compressor](/DipperCompressor/)           |    RWL     |    Compressor    |      "That" Compressor      |    Dylan159     |
-|            [Fledgling Phaser](/FledglingPhaser/)            |    RWL     |      Phaser      |     PUP: Litter of Four     |    Dylan159     |
-|    [Footswitch Daughterboard](/FootswitchDaughterboard/)    |    RWL     |     Utility      |             N/A             |       N/A       |
-|          [Gray Hornbill Fuzz](/GrayHornbillFuzz/)           |    RWL     |    Sitar/Fuzz    |           Jawari            |  Tim Escobedo   |
-|    [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)     |    RWL     |       Fuzz       |       L'il Black Key        |      BYOC       |
-| [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) |    RWL     | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |
-|          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |    RWL     |       Fuzz       |     One-Knobber Project     | Effects Layouts |
-|               [Shiny Cowbird](/ShinyCowbird/)               |    RWL     |       Fuzz       |   Dyl-Ei Fuzz Apprentice    |    Dylan159     |
-|               [Tiny Tyrant](/TinyTyrantPll/)                |    RWL     |       PLL        |           PLLedal           |    Dylan159     |
-|    [White-Throated Overdrive](/WhiteThroatedOverdrive/)     |    RWL     |    Overdrive     |  Dudson Narrowest Castest   |    Dylan159     |
+|                          PCB Name                           |       Type       |        Circuit Name         | Circuit Author  |
+| :---------------------------------------------------------: | :--------------: | :-------------------------: | :-------------: |
+|    [Buffalo-Weaver Overdrive](/BuffaloWeaverOverdrive/)     |    Overdrive     | Guitar Magazine Tube Bender |   Dan Coggins   |
+|           [Dipper Compressor](/DipperCompressor/)           |    Compressor    |      "That" Compressor      |    Dylan159     |
+|            [Fledgling Phaser](/FledglingPhaser/)            |      Phaser      |     PUP: Litter of Four     |    Dylan159     |
+|    [Footswitch Daughterboard](/FootswitchDaughterboard/)    |     Utility      |             N/A             |       N/A       |
+|          [Gray Hornbill Fuzz](/GrayHornbillFuzz/)           |    Sitar/Fuzz    |           Jawari            |  Tim Escobedo   |
+|    [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)     |       Fuzz       |       L'il Black Key        |      BYOC       |
+| [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |
+|          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |       Fuzz       |     One-Knobber Project     | Effects Layouts |
+|               [Shiny Cowbird](/ShinyCowbird/)               |       Fuzz       |   Dyl-Ei Fuzz Apprentice    |    Dylan159     |
+|             [Songifier Boost](/SongifierBoost/)              |  Boost & Buffer  |          Sonofier           |  Cees van Eijk  |
+|               [Tiny Tyrant](/TinyTyrantPll/)                |       PLL        |           PLLedal           |    Dylan159     |
+|    [White-Throated Overdrive](/WhiteThroatedOverdrive/)     |    Overdrive     |  Dudson Narrowest Castest   |    Dylan159     |
 
 ### Commercial
 
 The following PCBs are based on commercial circuits:
 
-|                          PCB Name                          | PCB Author |       Type       |                 Based on                 |
-| :--------------------------------------------------------: | :--------: | :--------------: | :--------------------------------------: |
-|           [CrimsonKiwi](/CrimsonKiwiOverdrive/)            |    RWL     | Octave Overdrive |         Way Huge Purple Platypus         |
-|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    RWL     |    Overdrive     |        Mad Professor Sweet Honey         |
-|             [King Eider Fuzz](/KingEiderFuzz/)             |    RWL     |       Fuzz       | Catalinbread Katzenkönig/AionFX Poseidon |
-| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    RWL     |    Distortion    |                ProCo RAT                 |
-|        [Morepork Distortion](/MoreporkDistortion/)         |    RWL     |    Distortion    |             MXR Distortion+              |
-|               [Potoo Octave](/PotooOctave/)                |    RWL     |   Octave Fuzz    |      Fuzzhugger(fx) Phantom Octave       |
-|        [Red-winged Overdrive](/RedwingedOverdrive/)        |    RWL     |    Overdrive     |              EHX Hot Tubes               |
+|                          PCB Name                          |       Type       |                 Based on                 |
+| :--------------------------------------------------------: | :--------------: | :--------------------------------------: |
+|           [CrimsonKiwi](/CrimsonKiwiOverdrive/)            | Octave Overdrive |         Way Huge Purple Platypus         |
+|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    Overdrive     |        Mad Professor Sweet Honey         |
+|             [King Eider Fuzz](/KingEiderFuzz/)             |       Fuzz       | Catalinbread Katzenkönig/AionFX Poseidon |
+| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    Distortion    |                ProCo RAT                 |
+|        [Morepork Distortion](/MoreporkDistortion/)         |    Distortion    |             MXR Distortion+              |
+|               [Potoo Octave](/PotooOctave/)                |   Octave Fuzz    |      Fuzzhugger(fx) Phantom Octave       |
+|        [Red-winged Overdrive](/RedwingedOverdrive/)        |    Overdrive     |              EHX Hot Tubes               |
 
 ## Guides
 

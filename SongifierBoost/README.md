@@ -1,0 +1,92 @@
+# Songifier Boost
+
+The *Screech Owl Harmonic Tremolo* is a PCB based on the Skidmark Pedals Sonofier. It's a boost plus an always-on non-inverting buffer, based on the amp section of the Sonomatic Delux Delay. It's a subtle always-on kind of effect.
+
+Skidmark Pedals was the company founded by pedal designer Cees van Eijk, who passed away in spring 2024. Cees wrote a message to be shared posthumously: "*You are all free to use the schematics as posted in the files section, but I would appreciate if you at least would give me some credits. That my designs will live after I have passed, somehow gives me great comfort.*" It's in the spirit of that message that I share this PCB. Thankfully, build docs for the Sonofier were saved on some people's hard drives, and posted on the PedalPCB forums - thanks to forum member coltonius for sharing documentation.
+
+The name from this pedal is a simple play on the Sonofier name. There are a few "song" birds - birds with "song" in their names. I had in mind the [Song Sparrow](https://ebird.org/species/sonspa). It's one of the most common birds in the Pacific Northwest, and can be found in a variety of habitats. It's known for its cheery song and funny "chimp" call. Such a ubiquitous bird seems like a good fit for an always-on pedal.
+
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/SongifierBoost/Songifier.zip) for fabrication.
+
+## Bill of materials
+
+| References | Value   | Footprint              | Note                |
+| :--------- | :------ | :--------------------- | :------------------ |
+| C1         | 220N    | Film Capacitor         |                     |
+| C3         | 220N    | Film Capacitor         |                     |
+| C5         | 220N    | Film Capacitor         |                     |
+| C2         | 1U      | Film Capacitor         |                     |
+| C4         | 100P    | MLCC Capacitor         |                     |
+| C100       | 100U    | Electrolytic Capacitor |                     |
+| C101       | 100N    | Film Capacitor         |                     |
+| C102       | 22U     | Electrolytic Capacitor |                     |
+| R1         | 1M      | 1/4W Resistor          |                     |
+| R2         | 1M      | 1/4W Resistor          |                     |
+| R3         | 4K7     | 1/4W Resistor          | LEDR                |
+| R4         | 22K     | 1/4W Resistor          |                     |
+| R5         | 10K     | 1/4W Resistor          |                     |
+| R6         | 100K    | 1/4W Resistor          |                     |
+| R100       | 47K     | 1/4W Resistor          |                     |
+| R101       | 47K     | 1/4W Resistor          |                     |
+| D1         | LED     | 3MM LED                | Bypass indicator    |
+| D100       | 1N5817  | Diode                  | Polarity Protection |
+| U1         | OPA2134 | IC                     |                     |
+| LEVEL      | A100K   | 16mm Potentiometer     |                     |
+
+
+All of the parts in this build should be easily sourced. The OPA 2134 is an expensive OpAmp. Cees has this to say:
+
+"Now the use of the 'posh' OPA2134 might be debatable when comparing datasheets, but I'm not going down that rabbit hole. When I kick it in, it inspires me to play, when I switch it off, I'm suddnly just missing 'something'..."
+
+You should be able to substitute in any dual op-amp (TL072, RC4558, etc).
+
+This is a basic build, but an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/SongifierBoost/interactive_bom.html) is available.
+
+### Not listed
+
+As with most guitar pedal BOMs, the following components are not listed above:
+
+* Footswitch
+* DC Jack
+* 2x 1/4" audio jack
+* Enclosure: this pedal fits into a 125B enclosure.
+* Socket (for the IC).
+* Wire
+* Solder
+
+## Layout
+
+This pedal only has a single knob, so you can use whatever layout you like. The board is modestly larger than the potentiometer footprint.
+
+### Screenshots
+
+Here are the front and back with traces and component values:
+
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
+
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
+
+Here is the front of the PCB with references rather than values:
+
+![Screenshot of the front of the PCB with references](images/pcb_references.png?raw=true)
+
+### Offboard wiring
+
+Offboard wiring is standard for this pedal. See the [detailed offboard wiring instructions](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/WIRING.md) if you want more specifics.
+
+## Schematic
+
+Below is the KiCad schematic.
+
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
+
+## Licensing
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
+
+## Versions
+
+* V1.0 - First public version. Small tweaks a few traces and a tiny silkscreen adjustment.
+* V0.9 - First version. Verified, works well.
