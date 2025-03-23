@@ -34,7 +34,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 | LEVEL      | A100K   | 16mm Potentiometer     |                     |
 
 
-All of the parts in this build should be easily sourced. The OPA 2134 is an expensive OpAmp. Cees has this to say:
+All of the parts in this build should be easily sourced, but the OPA2134 is an expensive op-amp compared to others. Cees has this to say:
 
 "Now the use of the 'posh' OPA2134 might be debatable when comparing datasheets, but I'm not going down that rabbit hole. When I kick it in, it inspires me to play, when I switch it off, I'm suddnly just missing 'something'..."
 
