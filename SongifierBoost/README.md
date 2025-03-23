@@ -1,6 +1,6 @@
 # Songifier Boost
 
-The *Screech Owl Harmonic Tremolo* is a PCB based on the Skidmark Pedals Sonofier. It's a boost plus an always-on non-inverting buffer, based on the amp section of the Sonomatic Delux Delay. It's a subtle always-on kind of effect.
+The *Screech Owl Harmonic Tremolo* is a PCB based on the Skidmark Pedals Sonofier. It's an (inverting) boost plus an always-on (non-inverting) buffer, based on the amp section of the Sonomatic Delux Delay. It's a subtle always-on kind of effect.
 
 Skidmark Pedals was the company founded by pedal designer Cees van Eijk, who passed away in spring 2024. Cees wrote a message to be shared posthumously: "*You are all free to use the schematics as posted in the files section, but I would appreciate if you at least would give me some credits. That my designs will live after I have passed, somehow gives me great comfort.*" It's in the spirit of that message that I share this PCB. Thankfully, build docs for the Sonofier were saved on some people's hard drives, and posted on the PedalPCB forums - thanks to forum member coltonius for sharing documentation.
 
@@ -72,7 +72,11 @@ Here is the front of the PCB with references rather than values:
 
 ### Offboard wiring
 
-Offboard wiring is standard for this pedal. See the [detailed offboard wiring instructions](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/WIRING.md) if you want more specifics.
+Offboard wiring is unusual for this pedal. There are pads for input and output jacks, as well as power, at the top. These should be labeled.
+
+There are also 9 direct connections to a footswitch. You can wire them directly to the footswitch, so BPIN/BPOUT/INPGND will connect to the first row of the footswitch, SWIN/SWOUT/GNDIN will connect to the second, and AMPIN/AMPOUT/LEDIN will connect to the third row.
+
+The wiring is set up this way because this is not a true bypass pedal.
 
 ## Schematic
 
