@@ -1,10 +1,10 @@
 # Songifier Boost
 
-The *Screech Owl Harmonic Tremolo* is a PCB based on the Skidmark Pedals Sonofier. It's an (inverting) boost plus an always-on (non-inverting) buffer, based on the amp section of the Sonomatic Delux Delay. It's a subtle always-on kind of effect.
+The *Songifier Boost* is a PCB based on the Skidmark Pedals Sonofier. It's an (inverting) boost plus an always-on (non-inverting) buffer, based on the amp section of the Sonomatic Delux Delay. It's a subtle always-on kind of effect.
 
 Skidmark Pedals was the company founded by pedal designer Cees van Eijk, who passed away in spring 2024. Cees wrote a message to be shared posthumously: "*You are all free to use the schematics as posted in the files section, but I would appreciate if you at least would give me some credits. That my designs will live after I have passed, somehow gives me great comfort.*" It's in the spirit of that message that I share this PCB. Thankfully, build docs for the Sonofier were saved on some people's hard drives, and posted on the PedalPCB forums - thanks to forum member coltonius for sharing documentation.
 
-The name from this pedal is a simple play on the Sonofier name. There are a few "song" birds - birds with "song" in their names. I had in mind the [Song Sparrow](https://ebird.org/species/sonspa). It's one of the most common birds in the Pacific Northwest, and can be found in a variety of habitats. It's known for its cheery song and funny "chimp" call. Such a ubiquitous bird seems like a good fit for an always-on pedal.
+The name from this pedal is a simple play on the Sonofier name. There are a few literal "song" birds (that is, birds with "song" in their names). I had in mind the [Song Sparrow](https://ebird.org/species/sonspa). It's one of the most common birds in the Pacific Northwest, and can be found in a variety of habitats. It's known for its cheery song and funny "chimp" call. Such a ubiquitous bird seems like a good fit for an always-on pedal.
 
 If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/SongifierBoost/Songifier.zip) for fabrication.
 
