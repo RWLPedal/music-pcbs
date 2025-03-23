@@ -22,8 +22,9 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 | [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |
 |          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |       Fuzz       |     One-Knobber Project     | Effects Layouts |
 |               [Shiny Cowbird](/ShinyCowbird/)               |       Fuzz       |   Dyl-Ei Fuzz Apprentice    |    Dylan159     |
-|             [Songifier Boost](/SongifierBoost/)              |  Boost & Buffer  |          Sonofier           |  Cees van Eijk  |
+|             [Songifier Boost](/SongifierBoost/)             |  Boost & Buffer  |          Sonofier           |  Cees van Eijk  |
 |               [Tiny Tyrant](/TinyTyrantPll/)                |       PLL        |           PLLedal           |    Dylan159     |
+|              [Weaver Boost](/WeaverBoost/)               |   Dirty Boost    |          Artiflex           |  Cees van Eijk  |
 |    [White-Throated Overdrive](/WhiteThroatedOverdrive/)     |    Overdrive     |  Dudson Narrowest Castest   |    Dylan159     |
 
 ### Commercial

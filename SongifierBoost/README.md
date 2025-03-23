@@ -10,31 +10,70 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 ## Bill of materials
 
-| References | Value   | Footprint              | Note                |
-| :--------- | :------ | :--------------------- | :------------------ |
-| C1         | 220N    | Film Capacitor         |                     |
-| C3         | 220N    | Film Capacitor         |                     |
-| C5         | 220N    | Film Capacitor         |                     |
-| C2         | 1U      | Film Capacitor         |                     |
-| C4         | 100P    | MLCC Capacitor         |                     |
-| C100       | 100U    | Electrolytic Capacitor |                     |
-| C101       | 100N    | Film Capacitor         |                     |
-| C102       | 22U     | Electrolytic Capacitor |                     |
-| R1         | 1M      | 1/4W Resistor          |                     |
-| R2         | 1M      | 1/4W Resistor          |                     |
-| R3         | 4K7     | 1/4W Resistor          | LEDR                |
-| R4         | 22K     | 1/4W Resistor          |                     |
-| R5         | 10K     | 1/4W Resistor          |                     |
-| R6         | 100K    | 1/4W Resistor          |                     |
-| R100       | 47K     | 1/4W Resistor          |                     |
-| R101       | 47K     | 1/4W Resistor          |                     |
-| D1         | LED     | 3MM LED                | Bypass indicator    |
-| D100       | 1N5817  | Diode                  | Polarity Protection |
-| U1         | OPA2134 | IC                     |                     |
-| LEVEL      | A100K   | 16mm Potentiometer     |                     |
+| References | Value  | Footprint              | Notes               |
+| :--------- | :----- | :--------------------- | :------------------ |
+| C1         | 220N   | Film Capacitor         |                     |
+| C2         | 220P   | MLCC Capacitor         |                     |
+| C3         | 100N   | Film Capacitor         |                     |
+| C4         | 10N    | Film Capacitor         |                     |
+| C5         | 47N    | Film Capacitor         |                     |
+| C6         | 100P   | MLCC Capacitor         |                     |
+| C7         | 2U2    | Electrolytic capacitor |                     |
+| C8         | 4N7    | Film Capacitor         |                     |
+| C9         | 10N    | Film Capacitor         |                     |
+| C10        | 100N   | Film Capacitor         |                     |
+| C11        | 100N   | Film Capacitor         |                     |
+| C12        | 1N     | Film Capacitor         |                     |
+| C13        | 220N   | Film Capacitor         |                     |
+| C14        | 4N7    | Film Capacitor         |                     |
+| C15        | 100N   | Film Capacitor         |                     |
+| C100       | 100U   | Film Capacitor         |                     |
+| C101       | 100N   | Film Capacitor         |                     |
+| C102       | 10U    | Electrolytic capacitor |                     |
+| C103       | 100U   | Electrolytic capacitor |                     |
+| C104       | 10U    | Electrolytic capacitor |                     |
+| C105       | 100U   | Electrolytic capacitor |                     |
+| C106       | 10U    | Electrolytic capacitor |                     |
+| D1         | LED    | 3mm LED                |                     |
+| D2         | LED    | 3mm LED                |                     |
+| D100       | LED    | 3mm LED                | Bypass Indicator    |
+| D101       | 1N5817 | Schottky Diode         | Polarity protection |
+| D102       | 1N5817 | Schottky Diode         |                     |
+| D103       | 1N5817 | Schottky Diode         |                     |
+| R1         | 4K7    | 1/4W Resistor          |                     |
+| R2         | 100K   | 1/4W Resistor          |                     |
+| R3         | 10K    | 1/4W Resistor          |                     |
+| R4         | 5K6    | 1/4W Resistor          |                     |
+| R5         | 1M     | 1/4W Resistor          |                     |
+| R6         | 1M     | 1/4W Resistor          |                     |
+| R7         | 100K   | 1/4W Resistor          |                     |
+| R8         | 2K2    | 1/4W Resistor          |                     |
+| R9         | 150K   | 1/4W Resistor          |                     |
+| R10        | 2K2    | 1/4W Resistor          |                     |
+| R11        | 4K7    | 1/4W Resistor          |                     |
+| R12        | 4K7    | 1/4W Resistor          |                     |
+| R13        | 10K    | 1/4W Resistor          |                     |
+| R14        | 47K    | 1/4W Resistor          |                     |
+| R15        | 47K    | 1/4W Resistor          |                     |
+| R16        | 4K7    | 1/4W Resistor          |                     |
+| R17        | 47K    | 1/4W Resistor          |                     |
+| R18        | 47K    | 1/4W Resistor          |                     |
+| R19        | 4K7    | 1/4W Resistor          |                     |
+| R20        | 10K    | 1/4W Resistor          |                     |
+| R21        | 47K    | 1/4W Resistor          |                     |
+| R22        | 100K   | 1/4W Resistor          |                     |
+| R23        | 1K     | 1/4W Resistor          |                     |
+| R100       | 4K7    | 1/4W Resistor          | LEDR                |
+| R101       | 100R   | 1/4W Resistor          |                     |
+| U1         | TL072  | IC                     |                     |
+| U2         | TL072  | IC                     |                     |
+| U3         | LT1054 | IC                     |                     |
+| GAIN       | B1M    | 16mm Potentiometer     |                     |
+| LEVEL      | A100K  | 16mm Potentiometer     |                     |
+| TONE       | B25K   | 16mm Potentiometer     |                     |
+| TYPE       | DPDT   | DPDT On/On Switch      |                     |
 
-
-All of the parts in this build should be easily sourced, but the OPA2134 is an expensive op-amp compared to others. Cees has this to say:
+All of the parts in this build should be easily sourced.
 
 "Now the use of the 'posh' OPA2134 might be debatable when comparing datasheets, but I'm not going down that rabbit hole. When I kick it in, it inspires me to play, when I switch it off, I'm suddnly just missing 'something'..."
 
