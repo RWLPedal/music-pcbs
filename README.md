@@ -38,6 +38,7 @@ The following PCBs are based on commercial circuits:
 | :--------------------------------------------------------: | :--------------: | :--------------------------------------: | :---: |
 |           [CrimsonKiwi](/CrimsonKiwiOverdrive/)            | Octave Overdrive |         Way Huge Purple Platypus         |   *   |
 |     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    Overdrive     |        Mad Professor Sweet Honey         |   *   |
+|                 [Horus Fuzz](/HorusFuzz/)                  |       Fuzz       |       Black Art Toneworks Pharoah        |   *   |
 |             [King Eider Fuzz](/KingEiderFuzz/)             |       Fuzz       | Catalinbread Katzenkönig/AionFX Poseidon |   *   |
 | [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    Distortion    |                ProCo RAT                 |
 |        [Morepork Distortion](/MoreporkDistortion/)         |    Distortion    |             MXR Distortion+              |
