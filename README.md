@@ -22,6 +22,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |          [Gray Hornbill Fuzz](/GrayHornbillFuzz/)           |    Sitar/Fuzz    |           Jawari            |  Tim Escobedo   |
 |    [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)     |       Fuzz       |       L'il Black Key        |      BYOC       |
 |           [Li'l Echo Parakeet](/LilEchoParakeet/)           |      Delay       |          L'il Echo          |      BYOC       |
+|        [Pacific Loon Tremolo](/PacificLoonTremolo/)         |     Tremolo      |     Trembling Satellite     |    Dylan159     |
 | [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |   *   |
 |          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |       Fuzz       |     One-Knobber Project     | Effects Layouts |
 |               [Shiny Cowbird](/ShinyCowbird/)               |       Fuzz       |   Dyl-Ei Fuzz Apprentice    |    Dylan159     |
