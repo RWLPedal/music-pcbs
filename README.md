@@ -24,6 +24,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 | [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |   *   |
 |          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |       Fuzz       |     One-Knobber Project     | Effects Layouts |
 |               [Shiny Cowbird](/ShinyCowbird/)               |       Fuzz       |   Dyl-Ei Fuzz Apprentice    |    Dylan159     |
+|     [Shred-Masked Distortion](/ShredMaskedDistortion/)      |    Distortion    |          Shredder           |      BYOC       |
 |             [Songifier Boost](/SongifierBoost/)             |  Boost & Buffer  |          Sonofier           |  Cees van Eijk  |
 |               [Tui Overdrive](/TuiOverdrive/)               |    Overdrive     |        Supreaux Deux        |  RunOffGroove   |   *   |
 |               [Tiny Tyrant](/TinyTyrantPll/)                |       PLL        |           PLLedal           |    Dylan159     |
@@ -39,6 +40,7 @@ The following PCBs are based on commercial circuits:
 |           [CrimsonKiwi](/CrimsonKiwiOverdrive/)            | Octave Overdrive |         Way Huge Purple Platypus         |   *   |
 |     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    Overdrive     |        Mad Professor Sweet Honey         |   *   |
 |                 [Horus Fuzz](/HorusFuzz/)                  |       Fuzz       |       Black Art Toneworks Pharoah        |   *   |
+|          [Kakapo Distortion](/KakapoDistortion/)           |    Distortion    |             Kokko Distortion             |       |
 |             [King Eider Fuzz](/KingEiderFuzz/)             |       Fuzz       | Catalinbread Katzenkönig/AionFX Poseidon |   *   |
 | [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    Distortion    |                ProCo RAT                 |
 |        [Morepork Distortion](/MoreporkDistortion/)         |    Distortion    |             MXR Distortion+              |
