@@ -2,9 +2,9 @@
 
 ![RWL Pedals Mascot, an Osprey](images/osprey.png)
 
-This is a repository for sharing PCB layouts, and pedal-building advice. Most PCBs are for effects pedals.
+This is a repository for sharing PCB layouts, and pedal-building advice. Most PCBs here are for effects pedals.
 
-PCBs shared here follow consistent [conventions](instructions/CONVENTIONS.md) and [control layouts](instructions/DRILLING.md) to the extent possible. If you've never had PCBs fabricated and always bought them pre-populated, check out the [fabrication instructions](instructions/FABRICATION.md) - it's easy and cheap to have PCBs fabricated.
+PCBs shared here follow consistent [conventions](instructions/CONVENTIONS.md) and [control layouts](instructions/DRILLING.md) to the extent possible. If you've never had PCBs fabricated before, check out the [fabrication instructions](instructions/FABRICATION.md) - it's easy and cheap to have PCBs manufactured.
 
 ## PCBs
 
@@ -21,6 +21,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |    [Footswitch Daughterboard](/FootswitchDaughterboard/)    |     Utility      |             N/A             |       N/A       |
 |          [Gray Hornbill Fuzz](/GrayHornbillFuzz/)           |    Sitar/Fuzz    |           Jawari            |  Tim Escobedo   |
 |    [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)     |       Fuzz       |       L'il Black Key        |      BYOC       |
+|           [Li'l Echo Parakeet](/LilEchoParakeet/)           |      Delay       |          L'il Echo          |      BYOC       |
 | [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |   *   |
 |          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |       Fuzz       |     One-Knobber Project     | Effects Layouts |
 |               [Shiny Cowbird](/ShinyCowbird/)               |       Fuzz       |   Dyl-Ei Fuzz Apprentice    |    Dylan159     |

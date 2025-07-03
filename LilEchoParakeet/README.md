@@ -1,14 +1,14 @@
-# Shred-Masked Distortion
+# L'il Echo Parakeet
 
-The *Shred-Masked Distortion* is a PCB based on the BYOC Shredder, which is based on the Marshall Shredmaster. This isn't a metal pedal, but it does have a heavily distorted sound. It's also not high gain - it barely reaches unity gain. So all said, it's an odd beast, but a unique sound.
+The *L'il Echo Parakeet* is a PCB based on the BYOC L'il Echo, a PT2399-based Analog Delay. It's a relatively straightforard delay, but I found it to be somewhat mechanical compared to other PT2399-based pedals
 
-This layout is named after the [Red-masked Parakeet](https://ebird.org/species/rempar) purely to indulge in the fun name. This parakeet is sometimes a pet, and has been introduced in Hawaii and California, but is native to Ecuador.
+This layout is named after the [Echo Parakeet](https://ebird.org/species/rempar) based on the name similarity. It's a Mauritian Parakeet and perhaps a slightly drab bird for a parakeet.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/ShredMaskedDistortion/ShredMaskedDistortion.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/LilEchoParakeet/LilEchoParaakeet.zip) for fabrication.
 
 ## Bill of materials
 
-You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/ShredMaskedDistortion/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be neccessary for populating the pedal.
+You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/LilEchoParakeet/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be neccessary for populating the pedal.
 
 All the components for this pedal are easily sourced.
 
@@ -26,7 +26,7 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-This pedal uses the standard [five-knob, LED bottom](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md) layout.
+This pedal uses the standard [three knob](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md) layout.
 
 ### Screenshots
 
@@ -58,5 +58,5 @@ This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attributio
 
 ## Versions
 
-* V1.0 - Updated, validated as working well.
-* V0.9 - First version, worked ok but had some problems with the control placement and traces.
+* V1.0 - Updated silkscreen and a few tiny trace adjustments.
+* V0.9 - First version, validated and works well.
