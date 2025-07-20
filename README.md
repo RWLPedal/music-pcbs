@@ -48,6 +48,8 @@ The following PCBs are based on commercial circuits:
 |        [Morepork Distortion](/MoreporkDistortion/)         |    Distortion    |             MXR Distortion+              |
 |               [Potoo Octave](/PotooOctave/)                |   Octave Fuzz    |      Fuzzhugger(fx) Phantom Octave       |
 |        [Red-winged Overdrive](/RedwingedOverdrive/)        |    Overdrive     |              EHX Hot Tubes               |   *   |
+|   [Saturnine Antshrike Boost](/SaturnineAntshrikeBoost/)   |      Boost       |            Spaceman Saturn V             |   *   |
+|             [Shoebill Boost](/ShoebillBoost/)              |      Boost       |           Way Huge Angry Troll           |
 |           [WhippoorwillFuzz](/WhippoorwillFuzz/)           |       Fuzz       |    Dunwich Amplification Cthulhu Fuzz    |
 
 ## Guides

@@ -22,7 +22,7 @@ All RWL PCBs include an onboard LED, so that's not listed in the generic section
 
 ### 125B Two-Knob
 
-![Three-Knob](images/two_knob.png)
+![Two-Knob](images/two_knob.png)
 
 This is the layout for a two-knob pedal in a 125B enclosure. This layout is similar to the three-knob layout... but with one fewer knob.
 

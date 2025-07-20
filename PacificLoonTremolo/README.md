@@ -8,7 +8,7 @@ The bird to select for this layout is obvious enough, a loon. I went with the [P
 
 Loons are slick-looking waterbirds with disinctive heads and necks, but they're probably most known for their call - one of the most iconic calls on TV and movies, especially at night. You might [recognize it](https://www.youtube.com/watch?v=DVFBUIGfcJk) even if you aren't a birdwatcher.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/PacificLoonTremolo./PacificLoonTremolo.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/PacificLoonTremolo/PacificLoonTremolo.zip) for fabrication.
 
 ## Bill of materials
 
