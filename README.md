@@ -17,11 +17,13 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |    [Buffalo-Weaver Overdrive](/BuffaloWeaverOverdrive/)     |    Overdrive     | Guitar Magazine Tube Bender |   Dan Coggins   |
 |             [Corn Crake Fuzz](/CornCrakeFuzz/)              |       Fuzz       |          NG-4 Fuzz          |    Dylan159     |
 |           [Dipper Compressor](/DipperCompressor/)           |    Compressor    |      "That" Compressor      |    Dylan159     |
+|             [Dirty Bird Fuzz](/DirtyBirdFuzz/)              |       Fuzz       |        BC108 Dirtbag        |  Cees van Eijk  |
 |            [Fledgling Phaser](/FledglingPhaser/)            |      Phaser      |     PUP: Litter of Four     |    Dylan159     |
 |    [Footswitch Daughterboard](/FootswitchDaughterboard/)    |     Utility      |             N/A             |       N/A       |
 |          [Gray Hornbill Fuzz](/GrayHornbillFuzz/)           |    Sitar/Fuzz    |           Jawari            |  Tim Escobedo   |
 |    [Li'l Black Cormorant Fuzz](/LilBlackCormorantFuzz/)     |       Fuzz       |       L'il Black Key        |      BYOC       |
 |           [Li'l Echo Parakeet](/LilEchoParakeet/)           |      Delay       |          L'il Echo          |      BYOC       |
+|           [Ms Mallard Filter](/MsMallardFilter/)            | Envelope Filter  |        Nurse Quacky         |   Homewrecker   |
 |        [Pacific Loon Tremolo](/PacificLoonTremolo/)         |     Tremolo      |     Trembling Satellite     |    Dylan159     |
 | [Screech Owl Harmonic Tremolo](/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |         Equanimity          |  Cees van Eijk  |   *   |
 |          [Sharp-shinned Fuzz](/SharpShinnedFuzz/)           |       Fuzz       |     One-Knobber Project     | Effects Layouts |
