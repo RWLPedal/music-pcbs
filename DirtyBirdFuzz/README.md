@@ -1,8 +1,8 @@
 # Dirty Bird Fuzz
 
-The *Dirty Bird Fuzz* is a PCB based on the Skidmark Pedals Dirtbag BC108 (MK2). This in turn is a variation of the Skreddy Lunar Module with a different voicing and some bonus features. While the Dirtbag was laid out for 1590BB, this version fits into a 125B. There are no boutique parts for this pedal.
+The *Dirty Bird Fuzz* is a PCB based on the Skidmark Pedals Dirtbag BC108 (MK2). This in turn is a variation of the Skreddy Lunar Module with a different voicing and some bonus features. While the Dirtbag was laid out for 1590BB, this version fits into a 125B. There are no boutique parts for this pedal. The layout is based on the schematic, from a PDF posted on the PPCB forums by member ITG6.
 
-The name of this layout doesn't come from a particular bird, but I named it for the "dirty bird," a nickname for the 98 Atlanta Falcons touchdown celebration dance. So I suppose the dirty bird is a falcon. It seemed like a good fit for the "Dirtbag" pedal.
+The name of this layout doesn't come from a particular bird, but I named it for the "dirty bird," a generally used slogan that could refer to the 98 Atlanta Falcons and their touchdonw celebration dance, or the Sister Sparrow & the Dirty Birds - a soul/blues band, or Wild Turkey bourbon. So I suppose the dirty bird is a falcon or a turkey. It seemed like a good fit for the "Dirtbag" pedal.
 
 If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/DirtyBirdFuzz/DirtyBirdFuzz.zip) for fabrication.
 
