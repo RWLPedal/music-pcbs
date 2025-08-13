@@ -39,20 +39,21 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 
 The following PCBs are based on commercial circuits:
 
-|                          PCB Name                          |       Type       |                Compare to                | Fav?  |
-| :--------------------------------------------------------: | :--------------: | :--------------------------------------: | :---: |
-|           [CrimsonKiwi](/CrimsonKiwiOverdrive/)            | Octave Overdrive |         Way Huge Purple Platypus         |   *   |
-|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |    Overdrive     |        Mad Professor Sweet Honey         |   *   |
-|                 [Horus Fuzz](/HorusFuzz/)                  |       Fuzz       |       Black Art Toneworks Pharoah        |   *   |
-|          [Kakapo Distortion](/KakapoDistortion/)           |    Distortion    |             Kokko Distortion             |       |
-|             [King Eider Fuzz](/KingEiderFuzz/)             |       Fuzz       | Catalinbread Katzenkönig/AionFX Poseidon |   *   |
-| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |    Distortion    |                ProCo RAT                 |
-|        [Morepork Distortion](/MoreporkDistortion/)         |    Distortion    |             MXR Distortion+              |
-|               [Potoo Octave](/PotooOctave/)                |   Octave Fuzz    |      Fuzzhugger(fx) Phantom Octave       |
-|        [Red-winged Overdrive](/RedwingedOverdrive/)        |    Overdrive     |              EHX Hot Tubes               |   *   |
-|   [Saturnine Antshrike Boost](/SaturnineAntshrikeBoost/)   |      Boost       |            Spaceman Saturn V             |   *   |
-|             [Shoebill Boost](/ShoebillBoost/)              |      Boost       |           Way Huge Angry Troll           |
-|           [WhippoorwillFuzz](/WhippoorwillFuzz/)           |       Fuzz       |    Dunwich Amplification Cthulhu Fuzz    |
+|                          PCB Name                          |        Type        |                Compare to                | Fav?  |
+| :--------------------------------------------------------: | :----------------: | :--------------------------------------: | :---: |
+|           [CrimsonKiwi](/CrimsonKiwiOverdrive/)            |  Octave Overdrive  |         Way Huge Purple Platypus         |   *   |
+|     [Honeycreeper Overdrive](/HoneycreeperOverdrive/)      |     Overdrive      |        Mad Professor Sweet Honey         |   *   |
+|                 [Horus Fuzz](/HorusFuzz/)                  |        Fuzz        |       Black Art Toneworks Pharoah        |   *   |
+|          [Kakapo Distortion](/KakapoDistortion/)           |     Distortion     |             Kokko Distortion             |       |
+|             [King Eider Fuzz](/KingEiderFuzz/)             |        Fuzz        | Catalinbread Katzenkönig/AionFX Poseidon |   *   |
+| [Northern Harrier Distortion](/NorthernHarrierDistortion/) |     Distortion     |                ProCo RAT                 |
+|        [Morepork Distortion](/MoreporkDistortion/)         |     Distortion     |             MXR Distortion+              |
+|               [Potoo Octave](/PotooOctave/)                |    Octave Fuzz     |      Fuzzhugger(fx) Phantom Octave       |
+|        [Red-winged Overdrive](/RedwingedOverdrive/)        |     Overdrive      |              EHX Hot Tubes               |   *   |
+|   [Saturnine Antshrike Boost](/SaturnineAntshrikeBoost/)   |       Boost        |            Spaceman Saturn V             |   *   |
+|             [Shoebill Boost](/ShoebillBoost/)              |       Boost        |           Way Huge Angry Troll           |
+|          [Whippoorwill Fuzz](/WhippoorwillFuzz/)           |        Fuzz        |    Dunwich Amplification Cthulhu Fuzz    |
+|           [Wood Owl Acoustic](/WoodOwlAcoustic/)           | Acoustic Simulator |      Rockman Acoustic Guitar Pedal       |
 
 ## Guides
 
