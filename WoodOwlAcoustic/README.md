@@ -14,6 +14,12 @@ There are no hard-to-find components in this build, although you might find that
 
 This build supports a few different component options. For the J201 transistor, you may use a surface-mount or through-hole design. There is a 1uF capacitor, which you can use either an electrolytic or film capacitor for (film is recommended, but a pad is labeled for the positive lead of an electrolytic capacitor - the two circular pads are interchangeable and both negative). Finally, there is a trimpot on the board and it supports both trimpot form factors, although note that it's oriented upside-down compared to a typical trimpot.
 
+### Adjusting the trimpot
+
+Set the gain control fully counter-clockwise, and the other controls at 50%. Adjust the trimmer while using the pedal until you can detect a slight bit of compression on the attack transient of each stroke of the strings.
+
+For a factory adjustment, inject a 1KHz @ 1V peak-to-peak signal at the pedals input, with the controls set the same. Measure the PCB at the test point (top right of the board) for 1.25V DC (+/-.05V DC), while adjusting the trimmer. If 1.25V can't be achieved at the test point, then the JFET's Vgs(Off) is out of spec. It should be -1.00V +/-.15V.
+
 ### Changes from stock circuit
 
 Cybercow made the following revisions to this circuit after comparing with a stock pedal:
@@ -38,6 +44,8 @@ As with most guitar pedal BOMs, the following components are not listed above:
 ## Layout
 
 This pedal uses a standard [four-knob layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md), although note that the volume knob is at the top right of the pedal, and the bypass indicator LED is positioned at the bottom of the board, closer to the footswitch, rather than between the four potentiometers.
+
+Cybercow has included a [template](images/AmplifyFun_template.psd) if you want to print the pedal with AmplifyFun.
 
 ### Screenshots
 
