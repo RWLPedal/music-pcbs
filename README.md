@@ -52,6 +52,7 @@ The following PCBs are based on commercial circuits:
 |        [Red-winged Overdrive](/RedwingedOverdrive/)        |     Overdrive      |              EHX Hot Tubes               |   *   |
 |   [Saturnine Antshrike Boost](/SaturnineAntshrikeBoost/)   |       Boost        |            Spaceman Saturn V             |   *   |
 |             [Shoebill Boost](/ShoebillBoost/)              |       Boost        |           Way Huge Angry Troll           |
+| [Southern Screamer Overdrive](/SouthernScreamerOverdrive/) |     Overdrive      |           Ibanez Tube Screamer           |
 |          [Whippoorwill Fuzz](/WhippoorwillFuzz/)           |        Fuzz        |    Dunwich Amplification Cthulhu Fuzz    |
 |           [Wood Owl Acoustic](/WoodOwlAcoustic/)           | Acoustic Simulator |      Rockman Acoustic Guitar Pedal       |
 
