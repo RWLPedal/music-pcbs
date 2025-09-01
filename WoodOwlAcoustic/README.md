@@ -18,7 +18,13 @@ This build supports a few different component options. For the J201 transistor, 
 
 Set the gain control fully counter-clockwise, and the other controls at 50%. Adjust the trimmer while using the pedal until you can detect a slight bit of compression on the attack transient of each stroke of the strings.
 
-For a factory adjustment, inject a 1KHz @ 1V peak-to-peak signal at the pedals input, with the controls set the same. Measure the PCB at the test point (top right of the board) for 1.25V DC (+/-.05V DC), while adjusting the trimmer. If 1.25V can't be achieved at the test point, then the JFET's Vgs(Off) is out of spec. It should be -1.00V +/-.15V.
+For a factory adjustment, inject a 1KHz @ 1V peak-to-peak signal at the pedals input, with the controls set the same. Measure the PCB at the test point (top right of the board) for 1.25V DC (+/-.05V DC), while adjusting the trimmer. The test point is also the same as pin 7 of U1. If 1.25V can't be achieved at the test point, then the JFET's Vgs(Off) is out of spec. It should be -1.00V +/-.15V.
+
+### Circuit details
+
+This trace is of the Dunlop (blue button) version of the Acoustic Guitar pedal. With their JFET bias selection, the range of Vgs(Off) is extended by +/- .1V (from +/- .05V to +/- .15V), without needing to adjust bias resistor values.
+
+The compression in the circuit is very subtle - it's not very squishy and not comparable to other the Rockman X100.
 
 ### Changes from stock circuit
 
