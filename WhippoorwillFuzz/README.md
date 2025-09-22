@@ -6,6 +6,8 @@ The name from this pedal is based on [whippoorwill](https://en.wikipedia.org/wik
 
 If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/WhippoorwillFuzz/WhippoorwillFuzz.zip) for fabrication.
 
+Note that there are substantial differences in the layout between V1.0 and V1.1, although the circuit is the same.
+
 ## Bill of materials
 
 | References | Value  | Type                   | Notes            |
@@ -91,5 +93,6 @@ This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attributio
 
 ## Versions
 
+* V1.1 - Completely changed the layout, but kept the circuit. Pushed the potentiometer to the top of the board, to allow space for the power jack to fit with the potentiometer high in the enclosure.
 * V1.0 - Tweak one trace and increment silkscreen version number for initial release.
 * V0.9 - First version, works fine.
