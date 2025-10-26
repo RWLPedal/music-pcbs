@@ -131,5 +131,6 @@ This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attributio
 
 ## Versions
 
+* V1.1 - Updated to position the knob to the top of the layout and verified. In the previous layout, caps and board collided with jacks, forcing knob to be positioned too low in the enclosure.
 * V1.0 - First public version. Small tweaks a few traces and a tiny silkscreen adjustment.
 * V0.9 - First version. Verified, works well.
