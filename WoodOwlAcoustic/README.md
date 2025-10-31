@@ -82,6 +82,6 @@ Below is the KiCad schematic.
 This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
 
 ## Versions
-
+* V1.1 - C101 had been positioned backwards (in schematic and silkscreen). Fixed this - the positive lead should be at the bottom. This version is unvalidated, but that was the only change. Without this the pedal still worked fine, but there could be some problems with the reference voltage.
 * V1.0 - Tweaked a few positions and fixed silkscreen errors. This version has been confirmed working over a few builds.
 * V0.9 - First version, this worked, but Cybercow confirmed a few silkscreen errors, and also made the resistor adjustments noted in the BOM.
