@@ -46,6 +46,7 @@ The following PCBs are based on commercial circuits:
 |                 [Horus Fuzz](/HorusFuzz/)                  |        Fuzz        |       Black Art Toneworks Pharoah        |   *   |
 |          [Kakapo Distortion](/KakapoDistortion/)           |     Distortion     |             Kokko Distortion             |       |
 |             [King Eider Fuzz](/KingEiderFuzz/)             |        Fuzz        | Catalinbread Katzenkönig/AionFX Poseidon |   *   |
+|      [Little Hawk Distortion](/LittleHawkDistortion/)      |     Distortion     |            Durham Crazy Horse            |
 | [Northern Harrier Distortion](/NorthernHarrierDistortion/) |     Distortion     |                ProCo RAT                 |
 |        [Morepork Distortion](/MoreporkDistortion/)         |     Distortion     |             MXR Distortion+              |
 |               [Potoo Octave](/PotooOctave/)                |    Octave Fuzz     |      Fuzzhugger(fx) Phantom Octave       |
