@@ -1,6 +1,7 @@
 # Kakapo Distortion
 
 ![Kakapo logo](images/logo.png)
+![Example front of the enclosure and gutshot](images/front_guts.png?raw=true)
 
 The *Kakapo Distortion* is a PCB based on the Kokko Distortion, which seems to be a combination of a TubeScreamer and a RAT. This pedal was a collaboration with Cybercow (moo) on the PedalPCB forums. Cybercow traced the circuit and made a few modifications, which I've validated. The result is a fairly intense distortion sound. One peculiarity of this pedal is that unlike a lot of the other boutique circuits I've laid out, Kokko pedals are mostly bargain-basement clones. It still sounds great, though!
 

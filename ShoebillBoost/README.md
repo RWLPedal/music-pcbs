@@ -1,5 +1,7 @@
 # Shoebill Boost
 
+![Example front of the enclosure and gutshot](images/front_guts.png?raw=true)
+
 The *Shoebill Boost* is a PCB based on the Way Huge Angry Troll. While this is labeled a boost pedal, it's more like an overdrive, with a fair amount of dirt and a lot of boost. All components are easily sourced.
 
 The name of this layout comes from the [Shoebill](https://en.wikipedia.org/wiki/Shoebill), one of the most distinctive and troll-looking birds out there. It's a very peculiar swamp bird that looks like a cross between a heron and a pelican. I thought it was a good fit for a troll-named pedal. 

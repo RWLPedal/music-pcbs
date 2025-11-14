@@ -1,6 +1,6 @@
 # Gray Hornbill Fuzz
 
-<img src="images/grayhornbill_fuzz.png?raw=true" alt="Cover image with gutshot">
+<img src="images/front_guts.png?raw=true" alt="Cover image with gutshot">
 
 The *Gray Hornbill Fuzz* is a PCB based on a Tim Escobedo circuit fragment, the Jawari. The circuit fragment does not include a power section, but all necessary components are included on this PCB.
 

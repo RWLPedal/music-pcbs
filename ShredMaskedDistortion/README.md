@@ -1,5 +1,7 @@
 # Shred-Masked Distortion
 
+![Example front of the enclosure and gutshot](images/front_guts.png?raw=true)
+
 The *Shred-Masked Distortion* is a PCB based on the BYOC Shredder, which is based on the Marshall Shredmaster. This isn't a metal pedal, but it does have a heavily distorted sound. It's also not high gain - it barely reaches unity gain. So all said, it's an odd beast, but a unique sound.
 
 This layout is named after the [Red-masked Parakeet](https://ebird.org/species/rempar) purely to indulge in the fun name. This parakeet is sometimes a pet, and has been introduced in Hawaii and California, but is native to Ecuador.

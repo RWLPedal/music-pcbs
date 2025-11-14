@@ -1,5 +1,7 @@
 # Northern Harrier Distortion
 
+![Example front of the enclosure and gutshot](images/front_guts.png?raw=true)
+
 The *Northern Harrier Distortion* is a PCB based on the famous ProCo RAT. There's little to be said about this distortion that hasn't alread been said.
 
 This layout is named after the Northern Harrier. The Harrier is a unique raptor known primarily for its habit of flying low over fields while hunting. Unlike hawks or falcons, it rarely flies above the treeline. It has an unsual owl-like face and its behavior is similar to diurnal owls, such as short-eared owls. The name was chosen because the Northern Harrier hunts rodents... such as RATs.
