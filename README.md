@@ -4,7 +4,30 @@
 
 This is a repository for sharing PCB layouts, and pedal-building advice. Most PCBs here are for effects pedals.
 
-PCBs shared here follow consistent [conventions](instructions/CONVENTIONS.md) and [control layouts](instructions/DRILLING.md) to the extent possible. If you've never had PCBs fabricated before, check out the [fabrication instructions](instructions/FABRICATION.md) - it's easy and cheap to have PCBs manufactured.
+ If you've never had PCBs fabricated before, check out the [fabrication instructions](instructions/FABRICATION.md) - it's easy and cheap to have PCBs manufactured.
+
+## What can I expect?
+
+These PCBs have the following properties:
+
+All PCBs:
+* Have top jacks for both power and audio. There are no side jack layouts.
+* Have component values printed on the board. No need for a BOM - they're all self-documenting.
+* Fit into a 125B enclosure (a few can fit into a smaller form factor).
+* Use consistent [control layouts](instructions/DRILLING.md) and spacing to the extent possible.
+* Follow consistent [conventions](instructions/CONVENTIONS.md).
+
+If you do want a BOM, most boards include an interactive BOM as a single downloadable HTML file, allowing easy inspection of the layout and identification of components.
+
+### Guides
+
+The following are guides for my layouts, or for pedal-building in general:
+
+* [Conventions](instructions/CONVENTIONS.md) - Layout and placement conventions I attempt to follow.
+* [Drilling](instructions/DRILLING.md) - Drill templates for RWL pedals.
+* [Fabrication](instructions/FABRICATION.md) - How exactly do you turn Gerber files into physical PCBs? Learn more here.
+* [KiCAD Files](KiCAD/KICAD_SETUP.md) - Files I use in KiCAD for my layouts (footprints and symbols) and how to install them.
+* [Wiring](instructions/WIRING.md) - Shows how to wire all pedals I've shared.
 
 ## PCBs
 
@@ -57,12 +80,3 @@ The following PCBs are based on commercial circuits:
 |          [Whippoorwill Fuzz](/WhippoorwillFuzz/)           |        Fuzz        |    Dunwich Amplification Cthulhu Fuzz    |
 |           [Wood Owl Acoustic](/WoodOwlAcoustic/)           | Acoustic Simulator |      Rockman Acoustic Guitar Pedal       |
 
-## Guides
-
-The following are guides for my layouts, or for pedal-building in general:
-
-* [Conventions](instructions/CONVENTIONS.md) - Layout and placement conventions I attempt to follow.
-* [Drilling](instructions/DRILLING.md) - Drill templates for RWL pedals.
-* [Fabrication](instructions/FABRICATION.md) - How exactly do you turn Gerber files into physical PCBs? Learn more here.
-* [KiCAD Files](KiCAD/KICAD_SETUP.md) - Files I use in KiCAD for my layouts (footprints and symbols) and how to install them.
-* [Wiring](instructions/WIRING.md) - Shows how to wire all pedals I've shared.
