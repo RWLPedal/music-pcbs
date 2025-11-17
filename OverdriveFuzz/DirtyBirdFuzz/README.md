@@ -21,7 +21,7 @@ Cees van Eijk from Skidmark pedals had the following notes for the controls:
 
 ## Bill of materials
 
-You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/DirtyBirdFuzz/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be necessary for populating the pedal.
+You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/DirtyBirdFuzz/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be necessary for populating the pedal.
 
 ### Not listed
 

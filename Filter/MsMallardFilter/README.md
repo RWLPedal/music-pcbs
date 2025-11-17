@@ -9,7 +9,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 ## Bill of materials
 
-You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/MsMallardFilter/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be necessary for populating the pedal.
+You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/Filter/MsMallardFilter/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be necessary for populating the pedal.
 
 ### Not listed
 

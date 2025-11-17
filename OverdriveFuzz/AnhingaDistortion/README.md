@@ -38,7 +38,7 @@ If you'd like to just get started with the build, you can [find the PCB on PCBWa
 
 All of the parts in this build should be easily sourced.
 
-This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/AnhingaDistortion/interactive_bom.html) is also available.
+This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/AnhingaDistortion/interactive_bom.html) is also available.
 
 ### Not listed
 

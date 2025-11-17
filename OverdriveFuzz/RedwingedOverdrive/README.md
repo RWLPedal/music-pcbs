@@ -60,7 +60,7 @@ If you'd like to just get started with the build, you can go ahead and download 
 | VOL1          | A10K     |             |                     |
 | TONE\_BYPASS1 | SW\_SPDT |             |                     |
 
-You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/RedwingedOverdrive/interactive_bom.html).
+You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/RedwingedOverdrive/interactive_bom.html).
 
 ### Not listed
 

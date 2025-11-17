@@ -35,7 +35,7 @@ If you'd like to just get started with the build, you can go ahead and download 
 | VOLUME1    | A100K   |                        |                  |
 
 
-You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/GrayHornbillFuzz/interactive_bom.html).
+You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/GrayHornbillFuzz/interactive_bom.html).
 
 ### Not listed
 

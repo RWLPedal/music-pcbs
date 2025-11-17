@@ -6,7 +6,7 @@ The *Tui Overdrive* is a PCB based on the [Runoff Groove Supreaux Deux](https://
 
 The name from this pedal comes from the [Tui](https://ebird.org/species/tui1), a ubiquitous nectar-eating bird from New Zealand. This bird makes a huge range of sounds and has a distinctive white neck tuft. They're cool birds that seem to fit the "smart, noisy black mid-sized bird" niche in NZ (like grackles or crows in parts of the US). I selected this bird for the pedal because the Supreaux Deux has "two" in the name... and so does the "Tui"!
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/TuiOverdrive/TuiOverdrive.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/TuiOverdrive/TuiOverdrive.zip) for fabrication.
 
 ## Bill of materials
 

@@ -40,7 +40,7 @@ There is one change in the label for this circuit compared to the original, whic
 
 As for diodes, the original Distortion+ uses germanium: 1N270s. It's common on many diagrams to show 1N34A instead. You can experiment with other diodes (1N4148 is common on other pedals with the same circuit layout).
 
-This is a simple build, but you may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/MoreporkDistortion/interactive_bom.html).
+This is a simple build, but you may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/MoreporkDistortion/interactive_bom.html).
 
 ### Not listed
 

@@ -63,7 +63,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 | GAIN       | A100K  | 16mm potentiometer     |                     |
 | LEVEL      | B100K  | 16mm potentiometer     |                     |
 
-If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/KakapoDistortion/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
+If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/KakapoDistortion/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
 
 ### Changes from stock circuit
 

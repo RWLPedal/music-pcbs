@@ -65,7 +65,7 @@ If you'd like to just get started with the build, you can go ahead and download 
 | INPUT1     | B250K  | Potentiometer          |                  |
 
 
-You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/KingEiderFuzz/interactive_bom.html).
+You may want to take a look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/KingEiderFuzz/interactive_bom.html).
 
 ### Not listed
 

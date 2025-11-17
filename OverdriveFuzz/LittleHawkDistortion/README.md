@@ -12,7 +12,7 @@ There are no components of this pedal that are particularly hard to source.
 
 There is a clipping LED (next to the volt pot), for which I suggest using a 3mm green LED.
 
-If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/LittleHawkDistortion/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
+If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/LittleHawkDistortion/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
 
 ### Not listed
 

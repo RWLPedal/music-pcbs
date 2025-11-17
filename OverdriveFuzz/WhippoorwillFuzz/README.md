@@ -6,7 +6,7 @@ The *Whippoorwill Fuzz* is a PCB based on the Dunwich Amplification Cthulhu ([ci
 
 The name from this pedal is based on [whippoorwill](https://en.wikipedia.org/wiki/Eastern_whip-poor-will), a bird with an eerie nighttime call that features in many HP Lovecraft stories (as does Cthulhu). Per wikipedia, New England suggests that whippoorwills can sense a soul departing and capture it. Whippoorwills are in the nightjar family, one of my favorite familites of birds because they're just so weird looking.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/WhippoorwillFuzz/WhippoorwillFuzz.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/WhippoorwillFuzz/WhippoorwillFuzz.zip) for fabrication.
 
 Note that there are substantial differences in the layout between V1.0 and V1.1, although the circuit is the same.
 

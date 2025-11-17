@@ -54,7 +54,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 All of the parts in this build should be very easily sourced.
 
-If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/HorusFuzz/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
+If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/HorusFuzz/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
 
 ### Not listed
 

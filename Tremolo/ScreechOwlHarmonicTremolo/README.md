@@ -93,7 +93,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 All of the parts in this build should be easily sourced.
 
-There are a number of components, so if you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/ScreechOwlHarmonicTremolo/interactive_bom.html) is also available.
+There are a number of components, so if you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/Tremolo/ScreechOwlHarmonicTremolo/interactive_bom.html) is also available.
 
 ### Not listed
 

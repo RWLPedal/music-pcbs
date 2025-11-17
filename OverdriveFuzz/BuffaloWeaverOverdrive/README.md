@@ -50,7 +50,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 I was unable to source a BC307B, but you can us a 2N3906. The pins are reversed, so simply flip the transistor.
 
-If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/BuffaloWeaverOverdrive/interactive_bom.html) is also available.
+If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/BuffaloWeaverOverdrive/interactive_bom.html) is also available.
 
 ### Not listed
 

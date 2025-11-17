@@ -53,7 +53,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 All of the parts in this build should be easily sourced. You should be able to use any germanium diodes. Various vero layouts and schematics show different transistors. 2N3904/2N3906 are probably the easiest to source.
 
-This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/CrimsonKiwiOverdrive/interactive_bom.html) is also available.
+This is a mostly straightforward build, but if you want an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/CrimsonKiwiOverdrive/interactive_bom.html) is also available.
 
 ### Not listed
 

@@ -62,7 +62,7 @@ If you'd like to just get started with the build, you can go ahead and download 
 
 All of the parts in this build should be easily sourced. The rotary switch is slightly unusual, see "Rotary switch" section below
 
-This is a relatively complicated build, so you may prefer to look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/TinyTyrantPll/interactive_bom.html).
+This is a relatively complicated build, so you may prefer to look at the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/Pll/TinyTyrantPll/interactive_bom.html).
 
 ### Rotary switch
 
