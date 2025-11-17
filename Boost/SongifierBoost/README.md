@@ -81,7 +81,7 @@ All of the parts in this build should be easily sourced.
 
 You should be able to substitute in any dual op-amp (TL072, RC4558, etc).
 
-This is a basic build, but an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/SongifierBoost/interactive_bom.html) is available.
+This is a basic build, but an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/Boost/SongifierBoost/interactive_bom.html) is available.
 
 ### Not listed
 

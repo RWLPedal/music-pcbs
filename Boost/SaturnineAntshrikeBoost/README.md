@@ -8,7 +8,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 ## Bill of materials
 
-You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/SaturnineAntshrikeBoost/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be neccessary for populating the pedal.
+You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/Boost/SaturnineAntshrikeBoost/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be neccessary for populating the pedal.
 
 There are a few unique components for this pedal:
 
