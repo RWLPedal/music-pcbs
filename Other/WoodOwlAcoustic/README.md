@@ -8,7 +8,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 ## Bill of materials
 
-This is a very complicated pedal (about as dense a board as you can fit into a 125B enclosure), so the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/WoodOwlAcoustic/interactive_bom.html) is recommended for viewing the list of components, sorting, or highlighting them on the board.
+This is a very complicated pedal (about as dense a board as you can fit into a 125B enclosure), so the [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/Other/WoodOwlAcoustic/interactive_bom.html) is recommended for viewing the list of components, sorting, or highlighting them on the board.
 
 There are no hard-to-find components in this build, although you might find that a few of the resistor values are missing from your storage!
 
