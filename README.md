@@ -74,7 +74,7 @@ The following PCBs are based on commercial circuits:
 |             [Morepork Distortion](OverdriveFuzz/MoreporkDistortion/)              |     Distortion     |             MXR Distortion+              |
 |                    [Potoo Octave](OverdriveFuzz/PotooOctave/)                     |    Octave Fuzz     |      Fuzzhugger(fx) Phantom Octave       |
 |             [Red-winged Overdrive](OverdriveFuzz/RedwingedOverdrive/)             |     Overdrive      |              EHX Hot Tubes               |   *   |
-|                   [Reedhaunter Delay](Delay/ReedhaunterDelay/)                   | Delay (and more!)  |             Mid-Fi Clarinot              |
+|                   [Reedhaunter Delay](Delay/ReedhaunterDelay/)                    | Delay (and more!)  |             Mid-Fi Clarinot              |
 |            [Saturnine Antshrike Boost](Boost/SaturnineAntshrikeBoost/)            |       Boost        |            Spaceman Saturn V             |   *   |
 |                      [Shoebill Boost](Boost/ShoebillBoost/)                       |       Boost        |           Way Huge Angry Troll           |
 |      [Southern Screamer Overdrive](OverdriveFuzz/SouthernScreamerOverdrive/)      |     Overdrive      |           Ibanez Tube Screamer           |

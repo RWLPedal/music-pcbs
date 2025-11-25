@@ -2,7 +2,7 @@
 
 The *Reedhaunter Delay* is a PCB based on the Mid-Fi Clarinot, a curious delay/envelope/wah/chorus/fuzz pedal. This is a PT2399 delay with a sort of wah effect and a fuzz. It's a very unique pedal that can get quite wild and uncontrollable on certain settings. The Mid-Fi name seems to be based on the rather pleasant "woody" tone of the pedal, which does sound like a clarinet.
 
-This layout is named after the [Reedhaunter Parakeet](https://en.wikipedia.org/wiki/Curve-billed_reedhaunter), based on the reference to a clarinet, a reed-based instrument. The pedal does also have a slightly ghostly, fractured sound. The reedhaunter is a small wren-like marshbird that's in the ovenbird family.
+This layout is named after the [Reedhaunter](https://en.wikipedia.org/wiki/Curve-billed_reedhaunter), based on the reference to a clarinet, a reed-based instrument. The pedal does also have a slightly ghostly, fractured sound. The reedhaunter is a small wren-like marshbird that's in the ovenbird family.
 
 If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Delay/ReedhaunterDelay/ReedhaunterDelay.zip) for fabrication.
 
@@ -12,7 +12,7 @@ You can find an [interactive BOM](https://html-preview.github.io/?url=https://gi
 
 All the components for this pedal are easily sourced.
 
-This pedal uses a homemade vactrol. You can experiment with components, but for the LED, I used a 5MM yellow LED, and for the LDR, I used a GL2258, with 10-20k light resistance. Tilt the LDR's face to touch the LED, then wrap them in electrical tape or heatshrink tape.
+This pedal uses a homemade vactrol. You can experiment with components, but for the LED, I used a 5MM yellow LED, and for the LDR, I used a GL2258, with 10-20k light resistance. Tilt the LDR's face to touch the LED. You can choose to wrap them together with electrical tape or heatshrink tubing - or leave them uncovered. Definitely cover them with a towel or cloth if testing the  pedal outside an enclosure, since external light is not ideal. But *inside* an enclosure, there will be a bit more variety and unpredictability if these two components are unwrapped.
 
 ### Not listed
 
