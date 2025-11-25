@@ -4,7 +4,7 @@ The *L'il Black Cormorant Fuzz* is a PCB based on the Build Your Own Clone (BYOC
 
 The name for this pedal, the [L'il Black Cormorant](https://ebird.org/species/libcor1), is an obvious reference to the BYOC pedal name. Cormorants are a family of diving birds which are not waterproof, commonly found worldwide. The Little Black Cormorant is located primarily around Australia and the South Pacific.
 
-If you'd like to just get started with the build, you can [find the PCB on PCBWay](https://www.pcbway.com/project/shareproject/L_il_Black_Cormorant_PCB_a7334241.html) (I will receive a small commission if you order from them). Alternately, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/LilBlackCormorantFuzz/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can [find the PCB on PCBWay](https://www.pcbway.com/project/shareproject/L_il_Black_Cormorant_PCB_a7334241.html) (I will receive a small commission if you order from them). Alternately, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/LilBlackCormorantFuzz/gerber.zip) for fabrication.
 
 ## Bill of materials
 

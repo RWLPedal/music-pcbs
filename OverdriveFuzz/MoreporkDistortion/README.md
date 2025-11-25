@@ -8,7 +8,7 @@ I suspect, like many non-New Zealanders, that my first encounter with the Morepo
 
 I had some fun with this layout. The PCB is set up like a "+" to mirror the original circuit's name.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/MoreporkDistortion/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/MoreporkDistortion/gerber.zip) for fabrication.
 
 ## Bill of materials
 

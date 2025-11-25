@@ -6,7 +6,7 @@ The *Shred-Masked Distortion* is a PCB based on the BYOC Shredder, which is base
 
 This layout is named after the [Red-masked Parakeet](https://ebird.org/species/rempar) purely to indulge in the fun name. This parakeet is sometimes a pet, and has been introduced in Hawaii and California, but is native to Ecuador.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/ShredMaskedDistortion/ShredMaskedDistortion.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/ShredMaskedDistortion/ShredMaskedDistortion.zip) for fabrication.
 
 ## Bill of materials
 

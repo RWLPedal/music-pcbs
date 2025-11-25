@@ -4,7 +4,7 @@ The *White-Throated Overdrive* is a PCB based on [Dylan159's "Dudson Narrowcast,
 
 The White-Throated name for the PCB was chosen somewhat haphazardly. For those of us living in the Pacific Northwest, we are excited to see the [White-Throated Sparrow](https://ebird.org/species/whtspa), but it's very common in New York's Hudson Valley. It's a charming sparrow with a splash of yellow.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/WhiteThroatedOverdrive/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/WhiteThroatedOverdrive/gerber.zip) for fabrication.
 
 ## Bill of materials
 
@@ -68,13 +68,13 @@ This pedal follows the drill conventions for the
 
 Here are the front and back with traces and component values:
 
-![Screenshot of the front of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/WhiteThroatedOverdrive/images/pcb_front.png?raw=true)
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
 
-![Screenshot of the back of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/WhiteThroatedOverdrive/images/pcb_back.png?raw=true)
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
 
 Here is the front of the PCB with references rather than values:
 
-![Screenshot of the front of the PCB with references](https://github.com/RWLPedal/music-pcbs/blob/main/WhiteThroatedOverdrive/images/pcb_references.png?raw=true)
+![Screenshot of the front of the PCB with references](images/pcb_references.png?raw=true)
 
 ### Offboard wiring
 
@@ -84,7 +84,7 @@ Offboard wiring is standard for this pedal. See the [detailed offboard wiring in
 
 Below is the KiCad schematic.
 
-![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/WhiteThroatedOverdrive/images/schematic.png?raw=true)
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
 
 ## Licensing
 

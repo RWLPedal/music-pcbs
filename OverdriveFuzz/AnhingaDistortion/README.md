@@ -4,7 +4,7 @@ The *Anhinga Distortion* is a PCB based on the Animal Factory Baron Samedi, itse
 
 The name for this pedal, the [Anhinga Distortion](https://www.allaboutbirds.org/guide/Anhinga/id), is based on the Anhinga, a cormorant relative that typically lives in swamps. The Baron Samedi is named after an [Iwa of Haitian Voodoo](https://en.wikipedia.org/wiki/Baron_Samedi) and I felt the swamp/bayou theme was relevant. Plus it's just a really cool bird, like a more extreme, *longer-necked* cormorant.
 
-If you'd like to just get started with the build, you can [find the PCB on PCBWay](https://www.pcbway.com/project/shareproject/Anhinga_Distortion_1784f5dd.html) (I will receive a small commission if you order from them). Alternately, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/AnhingaDistortion/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can [find the PCB on PCBWay](https://www.pcbway.com/project/shareproject/Anhinga_Distortion_1784f5dd.html) (I will receive a small commission if you order from them). Alternately, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/AnhingaDistortion/gerber.zip) for fabrication.
 
 ## Bill of materials
 

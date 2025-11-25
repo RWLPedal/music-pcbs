@@ -7,7 +7,7 @@ The *Kakapo Distortion* is a PCB based on the Kokko Distortion, which seems to b
 
 The name from this pedal is based on the [Kakapo](https://en.wikipedia.org/wiki/K%C4%81k%C4%81p%C5%8D), an extremely smart parrot that lives in New Zealand. This bird was selected for the pedal based on the similarity of the name with the Kokko brand.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/KakapoDistortion/KakapoDistortion.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/KakapoDistortion/KakapoDistortion.zip) for fabrication.
 
 ## Bill of materials
 

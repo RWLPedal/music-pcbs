@@ -8,7 +8,7 @@ Skidmark Pedals was the company founded by pedal designer Cees van Eijk, who pas
 
 The name from this pedal is a simple play on the Sonofier name. There are a few literal "song" birds (that is, birds with "song" in their names). I had in mind the [Song Sparrow](https://ebird.org/species/sonspa). It's one of the most common birds in the Pacific Northwest, and can be found in a variety of habitats. It's known for its cheery song and funny "chimp" call. Such a ubiquitous bird seems like a good fit for an always-on pedal.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/SongifierBoost/Songifier.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Boost/SongifierBoost/Songifier.zip) for fabrication.
 
 ## Bill of materials
 

@@ -4,7 +4,7 @@ The *Dirty Bird Fuzz* is a PCB based on the Skidmark Pedals Dirtbag BC108 (MK2).
 
 The name of this layout doesn't come from a particular bird, but I named it for the "dirty bird," a generally used slogan that could refer to the 98 Atlanta Falcons and their touchdonw celebration dance, or the Sister Sparrow & the Dirty Birds - a soul/blues band, or Wild Turkey bourbon. So I suppose the dirty bird is a falcon or a turkey. It seemed like a good fit for the "Dirtbag" pedal.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/DirtyBirdFuzz/DirtyBirdFuzz.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/DirtyBirdFuzz/DirtyBirdFuzz.zip) for fabrication.
 
 ## Controls
 

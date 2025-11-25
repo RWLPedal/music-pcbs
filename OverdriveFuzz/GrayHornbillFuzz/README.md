@@ -10,7 +10,7 @@ If you look at the gutshot above, you'll see that there's a separate boost board
 
 The name for this pedal, the [Gray Hornbill](https://ebird.org/species/inghor2) Fuzz, was selected because the Indian Gray Hornbill is a distinctive bird from India. This bird looks like a cross between a small dinosaur and a toucan, and is one of a number of hornbill birds.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/GrayHornbillFuzz/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/GrayHornbillFuzz/gerber.zip) for fabrication.
 
 ## Bill of materials
 

@@ -9,7 +9,7 @@ This Shiny Cowbird name was chosen for two reasons:
 1. The original pedal is the *Shin-ei Companion Fuzz*, so I wanted to have *Shiny* in the name.
 2. Cowbirds are obligate brood parasites. This means that they cannot construct nests or incubate eggs on their own. Instead, they lay eggs in the nests of other birds, and then the cowbird hatchlings will try to dominate the other hatchlings - by growing faster and often pushing the host hatchlings out of the nest! Quite nasty, but I felt this fit with the "Companion/Apprentice" naming in a dark way!
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/ShinyCowbird/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/ShinyCowbird/gerber.zip) for fabrication.
 
 ## Bill of materials
 
@@ -63,13 +63,13 @@ This pedal follows the drill conventions for the
 
 Here are the front and back with traces and component values:
 
-![Screenshot of the front of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/pcb_front.png?raw=true)
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
 
-![Screenshot of the back of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/pcb_back.png?raw=true)
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
 
 Here is the front of the PCB with references rather than values:
 
-![Screenshot of the front of the PCB with references](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/pcb_references.png?raw=true)
+![Screenshot of the front of the PCB with references](images/pcb_references.png?raw=true)
 
 ### Offboard wiring
 
@@ -79,7 +79,7 @@ Offboard wiring is standard for this pedal. See the [detailed offboard wiring in
 
 Below is the KiCad schematic.
 
-![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/ShinyCowbird/images/schematic.png?raw=true)
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
 
 ## Licensing
 

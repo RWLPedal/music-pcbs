@@ -6,7 +6,7 @@ Skidmark Pedals was the company founded by pedal designer Cees van Eijk, who pas
 
 The name from this pedal is based on the original name - Artiflex - and comes from [Weaver birds](https://en.wikipedia.org/wiki/Ploceidae). These *artisanal* birds *flex* reeds to make complicated nests. There's a number of type of weavers, but they're all fascinating birds - very social, with huge nests more like an anthill than a typical bird's nest.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/WeaverBoost/Weaver.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Boost/WeaverBoost/Weaver.zip) for fabrication.
 
 ## Bill of materials
 

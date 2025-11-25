@@ -4,7 +4,7 @@ The *Wood Owl Acoustic* is a PCB based on the Rockman Acoustic Guitar Pedal, whi
 
 We chose to call this pedal the [Wood Owl](https://en.wikipedia.org/wiki/Spotted_wood_owl) - there are a few species of this owl in Southeast Asia and Africa. They're quite alien-looking birds with huge, all-black eyes. The name comes from the "wood" connection between acoustic guitars and the owls.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/WoodOwlAcoustic/WoodOwlAcoustic.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Other/WoodOwlAcoustic/WoodOwlAcoustic.zip) for fabrication.
 
 ## Bill of materials
 

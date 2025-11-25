@@ -6,7 +6,7 @@ The *King Eider Fuzz* is a PCB based on the Catalinbread Katzenkönig. It also h
 
 The name for this pedal, the [King Eider](https://ebird.org/species/kineid), is based on the Katzenkönig name - literally Cat King. So another king is approporiate. The King Eider is an arctic duck with a girthy, magnificent bill.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/KingEiderFuzz/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/KingEiderFuzz/gerber.zip) for fabrication.
 
 ## Bill of materials
 

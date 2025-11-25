@@ -4,7 +4,7 @@ The *Little Hawk Distortion* is a PCB based on the Durham Crazy Horse. This is a
 
 This pedal's name is inspired by Crazy Horse, the famous Lakota warrior - whose younger half brother was named Little Hawk. I pictured the species that inspires this pedal to be the [Cooper's Hawk](https://www.allaboutbirds.org/guide/Coopers_Hawk/id), a little hawk that his widespread across the United States.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/LittleHawkDistortion/LittleHawkDistortion.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/LittleHawkDistortion/LittleHawkDistortion.zip) for fabrication.
 
 ## Bill of materials
 

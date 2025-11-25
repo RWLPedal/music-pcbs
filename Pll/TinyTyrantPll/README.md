@@ -4,7 +4,7 @@ The *Tiny Tyrant PLL* is a PCB based on [Dylan159's PLLedal](https://bentfishbow
 
 The name for this pedal, the [Tiny Tyrant](https://ebird.org/species/titman1), comes from the Tiny Tyrant-Manakin, a small jungle bird from South America. I've selected Manakins as a general theme for PLL-related pedals. This pedal, as with many Dylan159 designs, is relatively simple. Manakins in general are colorful birds with elaborate mating dances, although the Tiny Manakin is notably small (and a little drab) - I thought it was a good reflection of the relatively limited parts count for this pedal.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/TinyTyrantPll/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Pll/TinyTyrantPll/gerber.zip) for fabrication.
 
 ## Bill of materials
 

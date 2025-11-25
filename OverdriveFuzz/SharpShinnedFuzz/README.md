@@ -10,7 +10,7 @@ The *King Eider Fuzz* is a PCB based on the [Effects Layouts One-Knobber](https:
 
 This layout is named after the [Sharp-Shinned Hawk](https://ebird.org/species/shshaw), a small hawk common across North America, known for its adaptability.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/SharpShinnedFuzz/gerber.zip) for fabrication. Note that this gerber, unlike other RWL layouts, prints with component numbers rather than values, since the values can change depending on the build you choose.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/SharpShinnedFuzz/gerber.zip) for fabrication. Note that this gerber, unlike other RWL layouts, prints with component numbers rather than values, since the values can change depending on the build you choose.
 
 ## Bill of materials
 

@@ -4,7 +4,7 @@ The *Fledgling Phaser* is a PCB based on Dylan159's [Perfectly Usable Phaser (PU
 
 The name is unfortunately fairly dull. Since the original is called a "PUP," this is named for the bird equivalent. What can I say, I thought it was clever at the time.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/FledglingPhaser/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Phaser/FledglingPhaser/gerber.zip) for fabrication.
 
 ## Bill of materials
 

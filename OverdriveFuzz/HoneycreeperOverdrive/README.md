@@ -6,7 +6,7 @@ The *Honeycreeper Overdrive* is a PCB based on the Mad Professor Sweet Honey OD,
 
 The Honeycreeper name was chosen due to the obvious honey reference. The bird on the design above is a [Green Honeycreeper](https://ebird.org/species/grehon1), relatively common bird found in Central and South America. Honeycreepeprs are a family of small songbirds in the tanager family. They eat a variety of fruits and insects.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/HoneycreeperOverdrive/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/HoneycreeperOverdrive/gerber.zip) for fabrication.
 
 ## Bill of materials
 
@@ -81,13 +81,13 @@ This pedal follows the drill conventions for the
 
 Here are the front and back with traces and component values:
 
-![Screenshot of the front of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/HoneycreeperOverdrive/images/pcb_front.png?raw=true)
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
 
-![Screenshot of the back of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/HoneycreeperOverdrive/images/pcb_back.png?raw=true)
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
 
 Here is the front of the PCB with references rather than values:
 
-![Screenshot of the front of the PCB with references](https://github.com/RWLPedal/music-pcbs/blob/main/HoneycreeperOverdrive/images/pcb_references.png?raw=true)
+![Screenshot of the front of the PCB with references](images/pcb_references.png?raw=true)
 
 ### Offboard wiring
 
@@ -97,7 +97,7 @@ Offboard wiring is standard for this pedal. See the [detailed offboard wiring in
 
 Below is the KiCad schematic.
 
-![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/HoneycreeperOverdrive/images/schematic.png?raw=true)
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
 
 ## Licensing
 

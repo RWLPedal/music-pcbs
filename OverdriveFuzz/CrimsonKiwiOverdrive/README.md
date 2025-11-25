@@ -6,7 +6,7 @@ The *Crimson Kiwi Overdrive* is a PCB based on the Way Huge Purple Platypus, a f
 
 The Crimson Kiwi name is based on the fact that platypus are very weird mammals... and Kiwis are very weird birds.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/CrimsonKiwiOverdrive/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/CrimsonKiwiOverdrive/gerber.zip) for fabrication.
 
 ## Bill of materials
 

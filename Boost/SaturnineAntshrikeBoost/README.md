@@ -4,7 +4,7 @@ The *Saturnine Antshrike Boost* is a PCB based on the Spaceman Saturn V, a "harm
 
 The name of this layout comes from the [Saturnine Antshrike](https://ebird.org/species/satant1). While the original pedal is the Saturn V, why not go with the Saturn IX for the name?! Antshrikes are bug-eating birds that can attack army ant swarms.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/SaturnineAntshrikeBoost/SaturnineAntshrikeBoost.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Boost/SaturnineAntshrikeBoost/SaturnineAntshrikeBoost.zip) for fabrication.
 
 ## Bill of materials
 

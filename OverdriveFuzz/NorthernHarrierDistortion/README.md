@@ -6,7 +6,7 @@ The *Northern Harrier Distortion* is a PCB based on the famous ProCo RAT. There'
 
 This layout is named after the Northern Harrier. The Harrier is a unique raptor known primarily for its habit of flying low over fields while hunting. Unlike hawks or falcons, it rarely flies above the treeline. It has an unsual owl-like face and its behavior is similar to diurnal owls, such as short-eared owls. The name was chosen because the Northern Harrier hunts rodents... such as RATs.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/NorthernHarrierDistortion/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/NorthernHarrierDistortion/gerber.zip) for fabrication.
 
 ## Bill of materials
 
@@ -75,13 +75,13 @@ This pedal follows the drill conventions for the
 
 Here are the front and back with traces and component values:
 
-![Screenshot of the front of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/NorthernHarrierDistortion/images/pcb_front.png?raw=true)
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
 
-![Screenshot of the back of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/NorthernHarrierDistortion/images/pcb_back.png?raw=true)
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
 
 Here is the front of the PCB with references rather than values:
 
-![Screenshot of the front of the PCB with references](https://github.com/RWLPedal/music-pcbs/blob/main/NorthernHarrierDistortion/images/pcb_references.png?raw=true)
+![Screenshot of the front of the PCB with references](images/pcb_references.png?raw=true)
 
 ### Offboard wiring
 
@@ -91,7 +91,7 @@ Offboard wiring is standard for this pedal. See the [detailed offboard wiring in
 
 Below is the KiCad schematic.
 
-![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/NorthernHarrierDistortion/images/schematic.png?raw=true)
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
 
 ## Licensing
 

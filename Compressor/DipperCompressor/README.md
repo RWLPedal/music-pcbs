@@ -8,7 +8,7 @@ Dylan159 provides vero layouts for a 3-knob and 5-knob compressor. This layout i
 
 The Dipper name was chosen because this pedal has "low ripple." Dippers are a type of songbird which dive into running water (ostensibly without leaving much of a ripple!). They are the only diving songbird - they look similar to thrushes such as robins, but can dive. In the US West, you can see American Dippers diving into icy spring snow runoff and emerging with aquatic prey.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/DipperCompressor/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Compressor/DipperCompressor/gerber.zip) for fabrication.
 
 ## Bill of materials
 
@@ -84,13 +84,13 @@ This pedal follows the drill conventions for the
 
 Here are the front and back with traces and component values:
 
-![Screenshot of the front of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/DipperCompressor/images/pcb_front.png?raw=true)
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
 
-![Screenshot of the back of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/DipperCompressor/images/pcb_back.png?raw=true)
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
 
 Here is the front of the PCB with references rather than values:
 
-![Screenshot of the front of the PCB with references](https://github.com/RWLPedal/music-pcbs/blob/main/DipperCompressor/images/pcb_references.png?raw=true)
+![Screenshot of the front of the PCB with references](images/pcb_references.png?raw=true)
 
 ### Offboard wiring
 
@@ -100,7 +100,7 @@ Offboard wiring is standard for this pedal. See the [detailed offboard wiring in
 
 Below is the KiCad schematic.
 
-![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/DipperCompressor/images/schematic.png?raw=true)
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
 
 ## Licensing
 

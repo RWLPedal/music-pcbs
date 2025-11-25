@@ -4,7 +4,7 @@ The *Buffalo-Weaver Overdrive* is a PCB based on the Guitar Magazine Tube Bender
 
 The name from this pedal comes from the [Buffalo-Weaver](https://ebird.org/species/rbbwea1) (there are a few species). These African birds weave huge, elaborate nests with multiple compartments in baobab trees. In other words, they bend tubes!
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/BuffaloWeaverOverdrive/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/BuffaloWeaverOverdrive/gerber.zip) for fabrication.
 
 ## Bill of materials
 

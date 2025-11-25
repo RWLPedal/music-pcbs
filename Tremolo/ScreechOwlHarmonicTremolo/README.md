@@ -6,7 +6,7 @@ Skidmark Pedals was the company founded by pedal designer Cees van Eijk, who pas
 
 The name from this pedal comes from the [Screech Owl](https://www.allaboutbirds.org/guide/Western_Screech-Owl/overview). This cute, angry-looking little owl is known for its call, which supposedly sounds like a ping-pong ball bouncing on a table (a series of quickly repeated calls that get closer over time). You can hear it at the link above. I figured this sounded a bit like a tremolo (just a bit)! Plus - the name is funny for a such a smooth-sounding pedal.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/ScreechOwlHarmonicTremolo/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Tremolo/ScreechOwlHarmonicTremolo/gerber.zip) for fabrication.
 
 ## Bill of materials
 

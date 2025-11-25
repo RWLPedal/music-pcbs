@@ -4,7 +4,7 @@ The *Corn Crake Fuzz* is a PCB based on the [Dylan159 NG-4 Fuzz](https://bentfis
 
 The name from this pedal is based on the [Corn Crake](https://en.wikipedia.org/wiki/Corn_crake), a relatively common Eurasian bird. Just because it has "Corn" in the name. Thee corn crake is a type of rail, which tend to be shy birds that live around the edges of swamps. I have not seen a corn crake in the wild, but I believe that unlike other rails it lives in fields (particularly cornfields, giving it its name). Unfortunately, the corn crake is in decline because it lives in fields and modern farming techniques tend to destroy its nest.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/CornCrakeFuzz/CornCrakeFuzz.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/CornCrakeFuzz/CornCrakeFuzz.zip) for fabrication.
 
 ## Bill of materials
 

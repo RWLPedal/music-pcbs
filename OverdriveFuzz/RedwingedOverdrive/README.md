@@ -4,7 +4,7 @@ The *Red-winged Overdrive* is a PCB based on the ElectroHarmonix Hot Tubes, an e
 
 The name for the pedal comes from the color scheme of the Hot Tubes: red and black. It's named for the [Red-winged Blackbird](https://ebird.org/species/rewbla), a medium-sized black bird with bright red and yellow epaulets, common across North America (typically in swamps and wetlands). Black-birds have a distinctive mechanical clockwork song.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/RedwingedOverdrive/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/RedwingedOverdrive/gerber.zip) for fabrication.
 
 ## Bill of materials
 

@@ -4,7 +4,7 @@ The *Potoo Octave* is a PCB based on Fuzzhugger(fx)'s Phantom Octave, which appe
 
 The name for the pedal comes from one of the most [freakish birds](https://www.youtube.com/watch?v=LkIlrNAGXQM) (and a personal favorite bird), the [Common Potoo](https://ebird.org/species/compot1), which has the nickname "Ghost Bird". Potoos are part of the frogmouth family, which also includes nightjars, but they're way weirder. Pootoos have enormous black eyes, an exceptionally wide mouth, and they're very scruffy. With eyes closed, they raise their head and are well-camouflaged as branches. With eyes open, they look more like a muppet than a bird.
 
-If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/PotooOctave/gerber.zip) for fabrication.
+If you'd like to just get started with the build, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/PotooOctave/gerber.zip) for fabrication.
 
 ## Bill of materials
 
@@ -51,13 +51,13 @@ This is a single-knob pedal, so there's really no control layout. The PCB is bar
 
 Here are the front and back with traces and component values:
 
-![Screenshot of the front of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/PotooOctave/images/pcb_front.png?raw=true)
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
 
-![Screenshot of the back of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/PotooOctave/images/pcb_back.png?raw=true)
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
 
 Here is the front of the PCB with references rather than values:
 
-![Screenshot of the front of the PCB with references](https://github.com/RWLPedal/music-pcbs/blob/main/PotooOctave/images/pcb_references.png?raw=true)
+![Screenshot of the front of the PCB with references](images/pcb_references.png?raw=true)
 
 ### Offboard wiring
 
@@ -67,7 +67,7 @@ Offboard wiring is standard for this pedal. See the [detailed offboard wiring in
 
 Below is the KiCad schematic.
 
-![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/PotooOctave/images/schematic.png?raw=true)
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
 
 ## Licensing
 
