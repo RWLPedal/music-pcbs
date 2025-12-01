@@ -79,6 +79,7 @@ The following PCBs are based on commercial circuits:
 |            [Saturnine Antshrike Boost](Boost/SaturnineAntshrikeBoost/)            |       Boost        |            Spaceman Saturn V             |   *   |
 |                      [Shoebill Boost](Boost/ShoebillBoost/)                       |       Boost        |           Way Huge Angry Troll           |
 |      [Southern Screamer Overdrive](OverdriveFuzz/SouthernScreamerOverdrive/)      |     Overdrive      |           Ibanez Tube Screamer           |
+|              [Trumpeter Swan Fuzz](OverdriveFuzz/TrumpeterSwanFuzz/)              |        Fuzz        |         Paul Trombetta Mini-Bone         |   *   |
 |               [Whippoorwill Fuzz](OverdriveFuzz/WhippoorwillFuzz/)                |        Fuzz        |    Dunwich Amplification Cthulhu Fuzz    |
 |                    [Wood Owl Acoustic](Other/WoodOwlAcoustic/)                    | Acoustic Simulator |      Rockman Acoustic Guitar Pedal       |
 | [Zijuatanejo Goldfinch Distortion](OverdriveFuzz/ZijuatanejoGoldfinchDistortion/) |     Distortion     |          EQD Acapulco Goldfinch          |
