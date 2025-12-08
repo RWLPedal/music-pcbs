@@ -46,6 +46,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |       [Gray Hornbill Fuzz](OverdriveFuzz/GrayHornbillFuzz/)        |    Sitar/Fuzz    |                             Jawari                              |  Tim Escobedo   |
 | [Li'l Black Cormorant Fuzz](OverdriveFuzz/LilBlackCormorantFuzz/)  |       Fuzz       |                         L'il Black Key                          |      BYOC       |
 |            [Li'l Echo Parakeet](Delay/LilEchoParakeet/)            |      Delay       |                            L'il Echo                            |      BYOC       |
+|          [Tui Overdrive](OverdriveFuzz/MagpieOverdrive/)           |    Overdrive     |                   1Q81 *(based on DRV 1981)*                    |    Dylan159     |
 |            [Ms Mallard Filter](Filter/MsMallardFilter/)            | Envelope Filter  |                          Nurse Quacky                           |   Homewrecker   |
 |        [Pacific Loon Tremolo](Tremolo/PacificLoonTremolo/)         |     Tremolo      |       Trembling Satellite *(based on 4ms Tremulus Lune)*        |    Dylan159     |
 | [Screech Owl Harmonic Tremolo](Tremolo/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |                           Equanimity                            |  Cees van Eijk  |   *   |
