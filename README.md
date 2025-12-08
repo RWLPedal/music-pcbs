@@ -4,7 +4,7 @@
 
 This is a repository for sharing PCB layouts, and pedal-building advice. Most PCBs here are for effects pedals.
 
- If you've never had PCBs fabricated before, check out the [fabrication instructions](instructions/FABRICATION.md) - it's easy and cheap to have PCBs manufactured.
+If you've never had PCBs fabricated before, check out the [fabrication instructions](instructions/FABRICATION.md) - it's easy and cheap to have PCBs manufactured for yourself, and you'll find all the files you need in this repository.
 
 ## What can I expect?
 
@@ -83,5 +83,6 @@ The following PCBs are based on commercial circuits:
 |              [Trumpeter Swan Fuzz](OverdriveFuzz/TrumpeterSwanFuzz/)              |        Fuzz        |         Paul Trombetta Mini-Bone         |   *   |
 |               [Whippoorwill Fuzz](OverdriveFuzz/WhippoorwillFuzz/)                |        Fuzz        |    Dunwich Amplification Cthulhu Fuzz    |
 |                    [Wood Owl Acoustic](Other/WoodOwlAcoustic/)                    | Acoustic Simulator |      Rockman Acoustic Guitar Pedal       |
+|               [Yellow-Rumped Fuzz](OverdriveFuzz/YellowRumpedfuzz/)               |        Fuzz        |          Spaceman Rumblefuzz II          |
 | [Zijuatanejo Goldfinch Distortion](OverdriveFuzz/ZijuatanejoGoldfinchDistortion/) |     Distortion     |          EQD Acapulco Goldfinch          |
 
