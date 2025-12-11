@@ -109,3 +109,23 @@ This is the layout for a five-knob pedal in a 125B enclosure, where the LED is c
 On PedalPCB, this layout is known as the "5-Knob Type 2" layout.
 
 Here's the [Tayda template](https://drill.taydakits.com/box-designs/new?public_key=bi9FSTgzWVp3ZWRpbFJ2dlhaNEFBQT09Cg==).
+
+### 125 Six-Knob
+
+![125B Six-Knob, LED Bottom](images/six_knob.png)
+
+This is the layout for a five-knob pedal in a 125B enclosure, where the LED is centered in the grid of knobs in the middle bottom.
+
+| Description       | Diameter | X Position | Y Position |
+| :---------------- | :------- | :--------- | :--------- |
+| Top Left Knob     | 7.4mm    | \-20.32mm  | 38.1mm     |
+| Top Center Knob   | 7.4mm    | 0mm        | 38.1mm     |
+| Top Right Knob    | 7.4mm    | 20.32mm    | 38.1mm     |
+| Bottom Left Knob  | 7.4mm    | \-20.32mm  | 12.7mm     |
+| Bottom Center Knob | 7.4mm    | 0mm    | 12.7mm     |
+| Bottom Right Knob | 7.4mm    | 20.32mm    | 12.7mm     |
+| LED               | 4.4mm    | 0mm        | 38.1mm     |
+
+On PedalPCB, this layout is known as the "6-Knob (Type 1)" layout. You can position the LED where you like, typically aligned with the footswitch on either the left or right sides.
+
+Here's the [Tayda template](https://drill.taydakits.com/box-designs/new?public_key=Z0NFd3BnMWZLMzNRaHhEaVBLbGNKUT09Cg==).

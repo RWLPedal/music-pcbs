@@ -23,6 +23,8 @@ Cees van Eijk from Skidmark pedals had the following notes for the controls:
 
 You can find an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/DirtyBirdFuzz/interactive_bom.html), which contains all reference numbers, component counts, and more. But it should not be necessary for populating the pedal.
 
+Given how close the switches are to the legs of the pots, I would recommend placing electrical tape against one side of the switches to avoid shorts.
+
 ### Not listed
 
 As with most guitar pedal BOMs, the following components are not listed above:
@@ -37,7 +39,7 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-This pedal does not use a standard layout. The knobs are the [6-knob layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md), but there are an additional two switches below the bottom knobs.
+This pedal does not use a standard layout. The knobs are the [6-knob layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md), but there are an additional two switches below the bottom knobs. The switches are aligned directly below the left and right columns of knobs. You should space the switch holes 20.9mm below the knobs.
 
 ### Screenshots
 
