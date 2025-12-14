@@ -37,6 +37,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 
 |                              PCB Name                              |       Type       |                          Circuit Name                           | Circuit Author  | Fav?  |
 | :----------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------: | :-------------: | :---: |
+|   [Bonaparte's Gull Preamp](OverdriveFuzz/BonapartesGullPreamp/)   |      Preamp      |          Bonson's Praemp *(based on Benson's Preamp)*           |    Dylan159     |
 | [Buffalo-Weaver Overdrive](OverdriveFuzz/BuffaloWeaverOverdrive/)  |    Overdrive     |                   Guitar Magazine Tube Bender                   |   Dan Coggins   |
 |          [Corn Crake Fuzz](OverdriveFuzz/CornCrakeFuzz/)           |       Fuzz       |               NG-4 Fuzz *(based on Cornish NG-3)*               |    Dylan159     |
 |         [Dipper Compressor](Compressor/DipperCompressor/)          |    Compressor    |                        "That" Compressor                        |    Dylan159     |
@@ -46,7 +47,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |       [Gray Hornbill Fuzz](OverdriveFuzz/GrayHornbillFuzz/)        |    Sitar/Fuzz    |                             Jawari                              |  Tim Escobedo   |
 | [Li'l Black Cormorant Fuzz](OverdriveFuzz/LilBlackCormorantFuzz/)  |       Fuzz       |                         L'il Black Key                          |      BYOC       |
 |            [Li'l Echo Parakeet](Delay/LilEchoParakeet/)            |      Delay       |                            L'il Echo                            |      BYOC       |
-|          [Magpie Overdrive](OverdriveFuzz/MagpieOverdrive/)           |    Overdrive     |                   1Q81 *(based on DRV 1981)*                    |    Dylan159     |
+|         [Magpie Overdrive](OverdriveFuzz/MagpieOverdrive/)         |    Overdrive     |                   1Q81 *(based on DRV 1981)*                    |    Dylan159     |
 |            [Ms Mallard Filter](Filter/MsMallardFilter/)            | Envelope Filter  |                          Nurse Quacky                           |   Homewrecker   |
 |        [Pacific Loon Tremolo](Tremolo/PacificLoonTremolo/)         |     Tremolo      |       Trembling Satellite *(based on 4ms Tremulus Lune)*        |    Dylan159     |
 | [Screech Owl Harmonic Tremolo](Tremolo/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |                           Equanimity                            |  Cees van Eijk  |   *   |
