@@ -56,6 +56,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |          [Shiny Cowbird](OverdriveFuzz/ShinyCowbirdFuzz/)          |       Fuzz       | Dyl-Ei Fuzz Apprentice *(based on Shin-ei FY-2 Companion Fuzz)* |    Dylan159     |
 |  [Shred-Masked Distortion](OverdriveFuzz/ShredMaskedDistortion/)   |    Distortion    |           Shredder *(based on Marshall Shredmaster)*            |      BYOC       |
 |              [Songifier Boost](Boost/SongifierBoost/)              |  Boost & Buffer  |                            Sonofier                             |  Cees van Eijk  |
+|       [Tufted Puffin Fuzz](OverdriveFuzz/TuftedPuffinFuzz/)        |       Fuzz       |                Bigger Muff *(based on Big Muff)*                |    Dylan159     |
 |            [Tui Overdrive](OverdriveFuzz/TuiOverdrive/)            |    Overdrive     |                          Supreaux Deux                          |  RunOffGroove   |   *   |
 |                 [Tiny Tyrant](Pll/TinyTyrantPll/)                  |       PLL        |                             PLLedal                             |    Dylan159     |
 |                 [Weaver Boost](Boost/WeaverBoost/)                 |   Dirty Boost    |                            Artiflex                             |  Cees van Eijk  |
