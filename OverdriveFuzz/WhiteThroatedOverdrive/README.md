@@ -1,6 +1,6 @@
 # White-Throated Overdrive
 
-The *White-Throated Overdrive* is a PCB based on [Dylan159's "Dudson Narrowcast,"](https://bentfishbowl.wixsite.com/electronics/post/dudson-narrowcast-v2) a redesign of the Hudson Broadcast. Notably, the redesign does not include a transformer, and uses only easy-to-obtain components and values (no OC71 transistor or 330U electrolytic capacitor). Dylan159 provides two schematics, a PNP and NPN version. This PCB is for the PNP version, and it sounds great, with a crunchy tube-like tone.
+The *White-Throated Overdrive* is a PCB based on [Dylan159's "Dudson Narrowcast,"](https://bentfishbowl.wixsite.com/electronics/post/dudson-narrowcast-v2) a redesign of the Hudson Broadcast. Notably, the redesign does not include a transformer, and uses only easy-to-obtain components and values (no OC71 transistor or 330U electrolytic capacitor). Dylan159 provides two schematics, a PNP and NPN version. This PCB is for the NPN version built with 2N3904 transistors - and it sounds great, with a crunchy tube-like tone.
 
 The White-Throated name for the PCB was chosen somewhat haphazardly. For those of us living in the Pacific Northwest, we are excited to see the [White-Throated Sparrow](https://ebird.org/species/whtspa), but it's very common in New York's Hudson Valley. It's a charming sparrow with a splash of yellow.
 
