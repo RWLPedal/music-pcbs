@@ -71,7 +71,7 @@ The following PCBs are based on commercial circuits:
 |                [CrimsonKiwi](OverdriveFuzz/CrimsonKiwiOverdrive/)                 |  Octave Overdrive  |         Way Huge Purple Platypus         |   *   |
 |            [Garden Emerald Octave](OverdriveFuzz/GardenEmeraldOctave/)            |    Octave Fuzz     |        Green Ringer/EQD Tentacle         |
 |          [Honeycreeper Overdrive](OverdriveFuzz/HoneycreeperOverdrive/)           |     Overdrive      |        Mad Professor Sweet Honey         |   *   |
-|                      [Horus Fuzz](OverdriveFuzz/HorusFuzz/)                       |        Fuzz        |       Black Art Toneworks Pharoah        |   *   |
+|                      [Horus Fuzz](OverdriveFuzz/HorusFuzz/)                       |        Fuzz        |    Black Art Toneworks Scarab Deluxe     |   *   |
 |               [Kakapo Distortion](OverdriveFuzz/KakapoDistortion/)                |     Distortion     |             Kokko Distortion             |       |
 |                  [King Eider Fuzz](OverdriveFuzz/KingEiderFuzz/)                  |        Fuzz        | Catalinbread Katzenkönig/AionFX Poseidon |   *   |
 |           [Little Hawk Distortion](OverdriveFuzz/LittleHawkDistortion/)           |     Distortion     |            Durham Crazy Horse            |

@@ -2,9 +2,9 @@
 
 ![Horus logo](images/logo.png)
 
-The *Horus Fuzz* is a PCB based on the Black Art Toneworks Pharoah, a type of silicon tonebender. This is one of my favorite fuzz pedals, with a ton of sounds, all of them good. There's a limited number of parts, all of which are easily sourced. 
+The *Horus Fuzz* is a PCB based on the Black Art Toneworks Scarab Deluxe, a type of silicon tonebender. This is one of my favorite fuzz pedals, with a ton of sounds, all of them good. There's a limited number of parts, all of which are easily sourced. 
 
-The name from this pedal is based on ancient Egyptian god Horus, who has the head of a falcon (a peregrine falcon in this case). I thought this was a fitting name for a pedal based on a pharoah. Peregrine falcons are the fastest animals on the planet (measured at 242 mph) while diving towards prey.
+The name from this pedal is based on ancient Egyptian god Horus, who has the head of a falcon (a peregrine falcon in this case). I thought this was a fitting name for a pedal with an ancient Egyptian theme. Peregrine falcons are the fastest animals on the planet (measured at 242 mph) while diving towards prey.
 
 If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/HorusFuzz/HorusFuzz.zip) for fabrication.
 
