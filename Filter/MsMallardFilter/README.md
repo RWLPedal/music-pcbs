@@ -4,7 +4,7 @@ The *Ms Mallard Filter* is a PCB based on the [Nurse Quacky](https://home-wrecke
 
 The pedal is named after the [mallard duck](https://www.allaboutbirds.org/guide/Mallard/id) - far and away the most ubiquitous duck in the US. I'd originally called this pedal Mr. Mallard - but male mallards don't quack, only the females do. In fact, quacking is fairly unusual for ducks. I thought this was a fun fact for the pedal.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/MsMallardFilter/MsMallardFilter.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Filter/MsMallardFilter.zip) for fabrication.
 
 
 ## Bill of materials

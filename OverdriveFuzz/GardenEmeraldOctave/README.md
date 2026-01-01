@@ -4,7 +4,7 @@ The *Garden Emerald Octave* is an octave fuzz PCB based on a few pedals: the fam
 
 The name for this pedal comes from the [Garden Emerald](https://ebird.org/species/gareme1), a type of hummingbird from Costa Rica, paying homage to the Green Ringer name.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/GardenEmeraldOctave.zip) for fabrication - with Green Ringer values printed on it. I've also provided a [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/GardenEmeraldOctaveReferences.zip) that contains component references printed on the board (rather than component values), to make it easier if you would like to build a variation (see the variations section below).
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/GardenEmeraldOctave/GardenEmeraldOctave.zip) for fabrication - with Green Ringer values printed on it. I've also provided a [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/GardenEmeraldOctave/GardenEmeraldOctaveReferences.zip) that contains component references printed on the board (rather than component values), to make it easier if you would like to build a variation (see the variations section below).
 
 ## Bill of materials
 

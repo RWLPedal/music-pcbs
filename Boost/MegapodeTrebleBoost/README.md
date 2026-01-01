@@ -4,7 +4,7 @@ The *Megapode Treble Boost* is a PCB based on the [RunOffGroove Omega](https://w
 
 The name from this pedal is should be obvious - the [Megapode](https://en.wikipedia.org/wiki/Megapode) are a family of birds similar to woodfowl or swamp hens, with lage feet and legs. So why not an OMegapode pedal?
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Boost/MegapodeTrebleBoost/Songifier.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Boost/MegapodeTrebleBoost/MegapodeTrebleBoost.zip) for fabrication.
 
 ## Bill of materials
 

@@ -47,7 +47,7 @@ Note that there are substantial differences in the layout between V1.0 and V1.1,
 
 There is one hard-to-source part in this build, the 2N5008. I couldn't find it anywhere and saw a recommendation to instead try a 2N4123, which works OK. The ubiquitous 2N5088 and 2N3904 also work. My personal preference among these three was the 2N3904, but they all sound similar. I can't compare with the 2N5008, which I couldn't source.
 
-If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/WhippoorwillFuzz/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
+If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/WhippoorwillFuzz/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
 
 ### Not listed
 

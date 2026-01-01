@@ -9,7 +9,7 @@ This Shiny Cowbird name was chosen for two reasons:
 1. The original pedal is the *Shin-ei Companion Fuzz*, so I wanted to have *Shiny* in the name.
 2. Cowbirds are obligate brood parasites. This means that they cannot construct nests or incubate eggs on their own. Instead, they lay eggs in the nests of other birds, and then the cowbird hatchlings will try to dominate the other hatchlings - by growing faster and often pushing the host hatchlings out of the nest! Quite nasty, but I felt this fit with the "Companion/Apprentice" naming in a dark way!
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/ShinyCowbird/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/ShinyCowbirdFuzz/gerber.zip) for fabrication.
 
 ## Bill of materials
 

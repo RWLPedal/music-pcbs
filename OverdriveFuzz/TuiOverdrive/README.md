@@ -56,7 +56,7 @@ If you'd like to just get started, you can go ahead and download the [gerber](ht
 
 All of the parts in this build should be easily sourced. It can be hard or expensive to source through-hole J201s or 2N5457, so there are SMD pads, which you can use instead of the through-hole option.
 
-If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/TuiOverdrive/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
+If you want, an [interactive BOM](https://html-preview.github.io/?url=https://github.com/RWLPedal/music-pcbs/blob/main/OverdriveFuzz/TuiOverdrive/interactive_bom.html) is also available if you want the option of sorting components or highlighting them on the board.
 
 ### Not listed
 

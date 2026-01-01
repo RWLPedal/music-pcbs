@@ -9,7 +9,7 @@ For my layout, I wanted the following affordances, which were not on other daugh
 * All traces explicitly printed on the silkscreen (for easy reference).
 * My own name on the daughterboard.
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/FootswitchDaughterboard/gerber.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/Utility/FootswitchDaughterboard/gerber.zip) for fabrication.
 
 ## Bill of materials
 
@@ -23,15 +23,15 @@ The layout is for a standard PedalPCB-style daughterboard.
 
 Here are the front and back with traces and component values:
 
-![Screenshot of the front of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/FootswitchDaughterboard/images/pcb_front.png?raw=true)
+![Screenshot of the front of the PCB](images/pcb_front.png?raw=true)
 
-![Screenshot of the back of the PCB](https://github.com/RWLPedal/music-pcbs/blob/main/FootswitchDaughterboard/images/pcb_back.png?raw=true)
+![Screenshot of the back of the PCB](images/pcb_back.png?raw=true)
 
 ## Schematic
 
 For reference, below is the (messy) KiCad schematic:
 
-![Screenshot of the circuit's schematic](https://github.com/RWLPedal/music-pcbs/blob/main/FootswitchDaughterboard/images/schematic.png?raw=true)
+![Screenshot of the circuit's schematic](images/schematic.png?raw=true)
 
 ## Licensing
 

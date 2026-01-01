@@ -4,7 +4,7 @@ The *Southern Screamer Overdrive* is a PCB based on the iconic Ibanez Tube Screa
 
 The pedal is named after the [southern screamer](https://en.wikipedia.org/wiki/Southern_screamer), a goofy-looking bird with a distinctive screaming call. I think the selection of this bird as the inspiration for this board is obvious!
 
-If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/SouthernScreamerOverdrive/SouthernScreamerOverdrive.zip) for fabrication.
+If you'd like to just get started, you can go ahead and download the [gerber](https://github.com/RWLPedal/music-pcbs/raw/refs/heads/main/OverdriveFuzz/SouthernScreamerOverdrive/SouthernScreamerOverdrive.zip) for fabrication.
 
 ## Bill of materials
 

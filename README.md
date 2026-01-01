@@ -86,6 +86,6 @@ The following PCBs are based on commercial circuits:
 |              [Trumpeter Swan Fuzz](OverdriveFuzz/TrumpeterSwanFuzz/)              |        Fuzz        |         Paul Trombetta Mini-Bone         |   *   |
 |               [Whippoorwill Fuzz](OverdriveFuzz/WhippoorwillFuzz/)                |        Fuzz        |    Dunwich Amplification Cthulhu Fuzz    |
 |                    [Wood Owl Acoustic](Other/WoodOwlAcoustic/)                    | Acoustic Simulator |      Rockman Acoustic Guitar Pedal       |
-|               [Yellow-Rumped Fuzz](OverdriveFuzz/YellowRumpedfuzz/)               |        Fuzz        |          Spaceman Rumblefuzz II          |
+|               [Yellow-Rumped Fuzz](OverdriveFuzz/YellowRumpedFuzz/)               |        Fuzz        |          Spaceman Rumblefuzz II          |
 | [Zijuatanejo Goldfinch Distortion](OverdriveFuzz/ZijuatanejoGoldfinchDistortion/) |     Distortion     |          EQD Acapulco Goldfinch          |
 
