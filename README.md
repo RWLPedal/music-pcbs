@@ -38,7 +38,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |                              PCB Name                              |       Type       |                          Circuit Name                           | Circuit Author  | Fav?  |
 | :----------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------: | :-------------: | :---: |
 |   [Bonaparte's Gull Preamp](OverdriveFuzz/BonapartesGullPreamp/)   |      Preamp      |          Bonson's Praemp *(based on Benson's Preamp)*           |    Dylan159     |
-| [Buffalo-Weaver Overdrive](OverdriveFuzz/BuffaloWeaverOverdrive/)  |    Overdrive     |                   Guitar Magazine Tube Bender                   |   Dan Coggins   |
+| [Buffalo-Weaver Overdrive](OverdriveFuzz/BuffaloWeaverOverdrive/)  |    Overdrive     |                   Guitar Magazine Tube Bender                   |   Dan Coggins   |   *   |
 |          [Corn Crake Fuzz](OverdriveFuzz/CornCrakeFuzz/)           |       Fuzz       |               NG-4 Fuzz *(based on Cornish NG-3)*               |    Dylan159     |
 |         [Dipper Compressor](Compressor/DipperCompressor/)          |    Compressor    |                        "That" Compressor                        |    Dylan159     |
 |          [Dirty Bird Fuzz](OverdriveFuzz/DirtyBirdFuzz/)           |       Fuzz       |                          BC108 Dirtbag                          |  Cees van Eijk  |
@@ -50,6 +50,7 @@ The following PCBs are DIY-related, meaning they are based on kits or from circu
 |         [Magpie Overdrive](OverdriveFuzz/MagpieOverdrive/)         |    Overdrive     |                   1Q81 *(based on DRV 1981)*                    |    Dylan159     |
 |        [Megapode Treble Boost](Boost/MegapodeTrebleBoost/)         |   Treble Boost   |                              Omega                              |  RunOffGroove   |
 |            [Ms Mallard Filter](Filter/MsMallardFilter/)            | Envelope Filter  |                          Nurse Quacky                           |   Homewrecker   |
+|           [Nene Overdrive](OverdriveFuzz/NeneOverdrive/)           |    Overdrive     |                       Nene Overdrive                            |  RunOffGroove   |
 |        [Pacific Loon Tremolo](Tremolo/PacificLoonTremolo/)         |     Tremolo      |       Trembling Satellite *(based on 4ms Tremulus Lune)*        |    Dylan159     |
 | [Screech Owl Harmonic Tremolo](Tremolo/ScreechOwlHarmonicTremolo/) | Harmonic Tremolo |                           Equanimity                            |  Cees van Eijk  |   *   |
 |       [Sharp-shinned Fuzz](OverdriveFuzz/SharpShinnedFuzz/)        |       Fuzz       |    One-Knobber Project *(based on D.A.M. Meathead and more)*    | Effects Layouts |
