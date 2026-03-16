@@ -26,7 +26,7 @@ As with most guitar pedal BOMs, the following components are not listed above:
 
 ## Layout
 
-This pedal uses the standard [125B five knob, LED bottom layout](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
+This pedal only has a single knob, so it can be used with a variety of [layouts](https://github.com/RWLPedal/music-pcbs/blob/main/instructions/DRILLING.md).
 
 ### Screenshots
 
